@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "question": "...",
+    "options": { "A": "...", "B": "...", "C": "...", "D": "...", "E": "..." },
+    "correct_answer": "C",
+    "explanation": "..."
+  },
+  {
+    "id": 2,
+    "question": "...",
+    "options": { "A": "...", "B": "...", "C": "...", "D": "...", "E": "..." },
+    "correct_answer": "A",
+    "explanation": "..."
+  }
+]
