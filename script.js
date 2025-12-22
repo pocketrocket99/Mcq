@@ -41,23 +41,26 @@ function selectAnswer(selectedDiv, selectedKey) {
   const q = questions[currentIndex];
   const options = document.querySelectorAll(".option");
 
-  options.forEach(opt => {
-    const key = opt.innerText.charAt(0);
-    if (key === q.correct_answer) {
-  opt.classList.add("correct");
-
+  // ✅ SCORE LOGIC (ONLY ONCE)
   if (selectedKey === q.correct_answer) {
     score++;
     document.getElementById("score").innerText = `Score: ${score}`;
   }
-}
 
-if (key === selectedKey && key !== q.correct_answer) {
-  opt.classList.add("wrong");
-}
-    
+  // 🎨 COLOR OPTIONS
+  options.forEach(opt => {
+    const key = opt.innerText.charAt(0);
+
+    if (key === q.correct_answer) {
+      opt.classList.add("correct");
+    }
+
+    if (key === selectedKey && key !== q.correct_answer) {
+      opt.classList.add("wrong");
+    }
   });
 
+  // Show explanation
   const explanationDiv = document.getElementById("explanation");
   explanationDiv.innerHTML = `<strong>Explanation:</strong><br>${q.explanation}`;
   explanationDiv.classList.remove("hidden");
