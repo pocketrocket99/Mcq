@@ -1,0 +1,1646 @@
+[
+  {
+    "id": 1,
+    "question": "A 71-year-old man presents with progressive jaundice, pale stools, and dark urine. On examination, a mass is palpated in the right upper quadrant that moves with respiration. Ultrasonography shows a dilated common bile duct with no mass in the head of the pancreas. What is the most likely diagnosis?",
+    "options": {
+      "A": "Chronic pancreatitis",
+      "B": "Carcinoma of the tail of pancreas",
+      "C": "Periampullary tumor",
+      "D": "Biliary cirrhosis",
+      "E": "Budd–Chiari syndrome"
+    },
+    "correct_answer": "C",
+    "explanation": "This presentation is suggestive of obstructive jaundice with a palpable gallbladder (Courvoisier sign). A periampullary tumor arises near the ampulla of Vater and can obstruct bile flow without a pancreatic head mass on imaging, making it the most likely diagnosis."
+  },
+  {
+    "id": 2,
+    "question": "A 57-year-old man presents with abdominal distension, vomiting, and absolute constipation. He has a history of previous abdominal surgery. What is the most likely cause of his condition?",
+    "options": {
+      "A": "Postoperative adhesions",
+      "B": "Carcinoma of colon",
+      "C": "Crohn’s disease",
+      "D": "Inguinal hernia",
+      "E": "Hypokalemia"
+    },
+    "correct_answer": "A",
+    "explanation": "Postoperative adhesions are the most common cause of small bowel obstruction in patients with a history of abdominal surgery. The triad of abdominal distension, vomiting, and absolute constipation supports this diagnosis."
+  },
+  {
+    "id": 3,
+    "question": "A patient presents with painless progressive jaundice and a palpable gallbladder. Which clinical sign does this represent?",
+    "options": {
+      "A": "Murphy sign",
+      "B": "Courvoisier sign",
+      "C": "Grey Turner sign",
+      "D": "Cullen sign",
+      "E": "Blumberg sign"
+    },
+    "correct_answer": "B",
+    "explanation": "Courvoisier sign refers to the presence of a palpable, non-tender gallbladder in a patient with painless jaundice, suggesting malignant obstruction of the biliary tract rather than gallstones."
+  }
+  ,
+{
+  "id": 4,
+  "question": "A 45-year-old man presents with upper abdominal pain radiating to the back, associated with vomiting. Serum amylase and lipase are elevated. Which of the following is the most common cause of this condition?",
+  "options": {
+    "A": "Gallstones",
+    "B": "Alcohol consumption",
+    "C": "Hypercalcemia",
+    "D": "Hypertriglyceridemia",
+    "E": "Pancreatic carcinoma"
+  },
+  "correct_answer": "A",
+  "explanation": "Acute pancreatitis most commonly occurs due to gallstones, which cause transient obstruction of the pancreatic duct. Alcohol is the second most common cause."
+},
+{
+  "id": 5,
+  "question": "A patient with chronic liver disease presents with confusion, asterixis, and altered sleep pattern. What is the most likely underlying mechanism?",
+  "options": {
+    "A": "Cerebral edema due to hyponatremia",
+    "B": "Accumulation of ammonia and other neurotoxins",
+    "C": "Hypoglycemia",
+    "D": "Intracranial hemorrhage",
+    "E": "Wernicke encephalopathy"
+  },
+  "correct_answer": "B",
+  "explanation": "Hepatic encephalopathy occurs due to accumulation of ammonia and other gut-derived neurotoxins that are normally detoxified by the liver, leading to altered mental status and asterixis."
+},
+{
+  "id": 6,
+  "question": "A patient presents with hematemesis and melena. Upper GI endoscopy reveals dilated submucosal veins in the distal esophagus. What is the most likely underlying cause?",
+  "options": {
+    "A": "Peptic ulcer disease",
+    "B": "Mallory–Weiss tear",
+    "C": "Portal hypertension",
+    "D": "Gastric carcinoma",
+    "E": "Esophagitis"
+  },
+  "correct_answer": "C",
+  "explanation": "Esophageal varices develop due to portal hypertension, commonly secondary to liver cirrhosis. These dilated submucosal veins can rupture and cause massive upper gastrointestinal bleeding."
+}
+  ,
+{
+  "id": 7,
+  "question": "A newborn presents with bilious vomiting and abdominal distension. An X-ray shows a double bubble sign. What is the most likely diagnosis?",
+  "options": {
+    "A": "Duodenal atresia",
+    "B": "Jejunal atresia",
+    "C": "Meconium ileus",
+    "D": "Necrotizing enterocolitis",
+    "E": "Malrotation"
+  },
+  "correct_answer": "A",
+  "explanation": "The double bubble sign represents gas in the stomach and proximal duodenum, classically seen in duodenal atresia, a congenital obstruction distal to the ampulla."
+},
+{
+  "id": 8,
+  "question": "A 60-year-old chronic alcoholic presents with hematemesis after repeated bouts of vomiting. Endoscopy shows a longitudinal mucosal tear at the gastroesophageal junction. What is the diagnosis?",
+  "options": {
+    "A": "Boerhaave syndrome",
+    "B": "Mallory–Weiss tear",
+    "C": "Esophageal varices",
+    "D": "Gastric ulcer",
+    "E": "Esophagitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Mallory–Weiss tear is a mucosal laceration at the gastroesophageal junction caused by forceful vomiting, commonly seen in alcoholics."
+},
+{
+  "id": 9,
+  "question": "A patient presents with right lower quadrant pain, fever, and leukocytosis. What is the most common position of the appendix?",
+  "options": {
+    "A": "Pelvic",
+    "B": "Retrocecal",
+    "C": "Subcecal",
+    "D": "Preileal",
+    "E": "Postileal"
+  },
+  "correct_answer": "B",
+  "explanation": "The most common anatomical position of the appendix is retrocecal, accounting for approximately 65% of cases."
+},
+{
+  "id": 10,
+  "question": "A patient with long-standing ulcerative colitis is at increased risk of developing which malignancy?",
+  "options": {
+    "A": "Gastric carcinoma",
+    "B": "Cholangiocarcinoma",
+    "C": "Colorectal carcinoma",
+    "D": "Pancreatic carcinoma",
+    "E": "Hepatocellular carcinoma"
+  },
+  "correct_answer": "C",
+  "explanation": "Long-standing ulcerative colitis significantly increases the risk of colorectal carcinoma, especially after 8–10 years of disease."
+},
+{
+  "id": 11,
+  "question": "A patient presents with painless rectal bleeding. Colonoscopy reveals dilated tortuous veins in the anal canal above the dentate line. What is the diagnosis?",
+  "options": {
+    "A": "Anal fissure",
+    "B": "External hemorrhoids",
+    "C": "Internal hemorrhoids",
+    "D": "Rectal prolapse",
+    "E": "Anal carcinoma"
+  },
+  "correct_answer": "C",
+  "explanation": "Internal hemorrhoids arise above the dentate line and typically present with painless rectal bleeding."
+},
+{
+  "id": 12,
+  "question": "A patient with cirrhosis develops ascites. What is the primary mechanism responsible?",
+  "options": {
+    "A": "Reduced oncotic pressure",
+    "B": "Portal hypertension",
+    "C": "Renal sodium retention",
+    "D": "Increased lymph formation",
+    "E": "All of the above"
+  },
+  "correct_answer": "E",
+  "explanation": "Ascites in cirrhosis is multifactorial, involving portal hypertension, hypoalbuminemia, renal sodium retention, and increased lymph formation."
+},
+{
+  "id": 13,
+  "question": "A patient presents with iron deficiency anemia and occult blood in stool. What is the most important investigation?",
+  "options": {
+    "A": "Upper GI endoscopy",
+    "B": "Colonoscopy",
+    "C": "CT abdomen",
+    "D": "Barium enema",
+    "E": "Capsule endoscopy"
+  },
+  "correct_answer": "B",
+  "explanation": "Colonoscopy is essential to rule out colorectal malignancy in patients with iron deficiency anemia and occult GI bleeding."
+},
+{
+  "id": 14,
+  "question": "A patient presents with dysphagia to solids initially, progressing to liquids. What is the most likely diagnosis?",
+  "options": {
+    "A": "Achalasia cardia",
+    "B": "Esophageal carcinoma",
+    "C": "Esophagitis",
+    "D": "Plummer–Vinson syndrome",
+    "E": "Diffuse esophageal spasm"
+  },
+  "correct_answer": "B",
+  "explanation": "Progressive dysphagia starting with solids and later liquids suggests a mechanical obstruction, most commonly esophageal carcinoma."
+},
+{
+  "id": 15,
+  "question": "A patient presents with abdominal pain out of proportion to physical findings. What is the most likely diagnosis?",
+  "options": {
+    "A": "Acute pancreatitis",
+    "B": "Acute appendicitis",
+    "C": "Acute mesenteric ischemia",
+    "D": "Intestinal obstruction",
+    "E": "Perforated ulcer"
+  },
+  "correct_answer": "C",
+  "explanation": "Acute mesenteric ischemia classically presents with severe abdominal pain disproportionate to clinical examination findings."
+},
+{
+  "id": 16,
+  "question": "A patient presents with steatorrhea, weight loss, and diabetes mellitus. What is the most likely cause?",
+  "options": {
+    "A": "Chronic pancreatitis",
+    "B": "Celiac disease",
+    "C": "Crohn’s disease",
+    "D": "Ulcerative colitis",
+    "E": "Irritable bowel syndrome"
+  },
+  "correct_answer": "A",
+  "explanation": "Chronic pancreatitis causes exocrine pancreatic insufficiency leading to steatorrhea, along with endocrine dysfunction causing diabetes."
+},
+{
+  "id": 17,
+  "question": "A patient presents with bloody diarrhea, tenesmus, and rectal urgency. Which condition is most likely?",
+  "options": {
+    "A": "Crohn’s disease",
+    "B": "Ulcerative colitis",
+    "C": "Irritable bowel syndrome",
+    "D": "Celiac disease",
+    "E": "Colon cancer"
+  },
+  "correct_answer": "B",
+  "explanation": "Ulcerative colitis typically presents with bloody diarrhea, tenesmus, and rectal urgency due to continuous colonic mucosal inflammation."
+},
+{
+  "id": 18,
+  "question": "A patient presents with a painful anal fissure. What is the most common location?",
+  "options": {
+    "A": "Anterior midline",
+    "B": "Posterior midline",
+    "C": "Lateral wall",
+    "D": "Circumferential",
+    "E": "Dentate line"
+  },
+  "correct_answer": "B",
+  "explanation": "Anal fissures most commonly occur in the posterior midline due to relatively poor blood supply."
+},
+{
+  "id": 19,
+  "question": "A patient with peptic ulcer disease suddenly develops severe abdominal pain and board-like rigidity. What is the most likely complication?",
+  "options": {
+    "A": "Bleeding",
+    "B": "Perforation",
+    "C": "Gastric outlet obstruction",
+    "D": "Penetration",
+    "E": "Malignancy"
+  },
+  "correct_answer": "B",
+  "explanation": "Sudden severe pain with guarding and rigidity indicates perforation causing chemical peritonitis."
+},
+{
+  "id": 20,
+  "question": "A patient presents with painless progressive dysphagia and weight loss. What investigation confirms the diagnosis?",
+  "options": {
+    "A": "Barium swallow",
+    "B": "CT chest",
+    "C": "Upper GI endoscopy with biopsy",
+    "D": "Esophageal manometry",
+    "E": "PET scan"
+  },
+  "correct_answer": "C",
+  "explanation": "Upper GI endoscopy with biopsy is the definitive diagnostic test for esophageal carcinoma."
+},
+{
+  "id": 21,
+  "question": "A patient presents with chronic diarrhea, weight loss, and dermatitis herpetiformis. What is the most likely diagnosis?",
+  "options": {
+    "A": "Crohn’s disease",
+    "B": "Ulcerative colitis",
+    "C": "Celiac disease",
+    "D": "Lactose intolerance",
+    "E": "Tropical sprue"
+  },
+  "correct_answer": "C",
+  "explanation": "Celiac disease presents with malabsorption, chronic diarrhea, weight loss, and dermatitis herpetiformis due to gluten sensitivity."
+}
+  ,
+{
+  "id": 22,
+  "question": "A newborn fails to pass meconium within the first 48 hours of life and develops abdominal distension. What is the most likely diagnosis?",
+  "options": {
+    "A": "Duodenal atresia",
+    "B": "Hirschsprung disease",
+    "C": "Meconium ileus",
+    "D": "Necrotizing enterocolitis",
+    "E": "Intussusception"
+  },
+  "correct_answer": "B",
+  "explanation": "Hirschsprung disease results from absence of ganglion cells in the distal bowel, leading to failure of meconium passage and abdominal distension."
+},
+{
+  "id": 23,
+  "question": "A patient presents with dysphagia to both solids and liquids from the onset. What is the most likely diagnosis?",
+  "options": {
+    "A": "Esophageal carcinoma",
+    "B": "Achalasia cardia",
+    "C": "Peptic stricture",
+    "D": "Esophagitis",
+    "E": "Zenker diverticulum"
+  },
+  "correct_answer": "B",
+  "explanation": "Achalasia cardia causes functional obstruction due to failure of LES relaxation, leading to dysphagia to both solids and liquids from the beginning."
+},
+{
+  "id": 24,
+  "question": "A patient with chronic alcohol use presents with epigastric pain relieved by leaning forward. What is the diagnosis?",
+  "options": {
+    "A": "Peptic ulcer disease",
+    "B": "Acute pancreatitis",
+    "C": "Chronic pancreatitis",
+    "D": "Gastritis",
+    "E": "Gastric carcinoma"
+  },
+  "correct_answer": "B",
+  "explanation": "Epigastric pain radiating to the back and relieved by leaning forward is characteristic of acute pancreatitis."
+},
+{
+  "id": 25,
+  "question": "Which organism is most commonly associated with peptic ulcer disease?",
+  "options": {
+    "A": "Salmonella typhi",
+    "B": "Escherichia coli",
+    "C": "Helicobacter pylori",
+    "D": "Clostridium difficile",
+    "E": "Campylobacter jejuni"
+  },
+  "correct_answer": "C",
+  "explanation": "Helicobacter pylori infection is the most common cause of peptic ulcer disease worldwide."
+},
+{
+  "id": 26,
+  "question": "A patient presents with massive splenomegaly, ascites, and esophageal varices. What is the most likely diagnosis?",
+  "options": {
+    "A": "Cirrhosis of liver",
+    "B": "Portal vein thrombosis",
+    "C": "Budd–Chiari syndrome",
+    "D": "Right heart failure",
+    "E": "Non-cirrhotic portal fibrosis"
+  },
+  "correct_answer": "E",
+  "explanation": "Non-cirrhotic portal fibrosis presents with portal hypertension features such as splenomegaly and varices with preserved liver function."
+},
+{
+  "id": 27,
+  "question": "A patient presents with intermittent crampy abdominal pain and red currant jelly stools. What is the most likely diagnosis?",
+  "options": {
+    "A": "Volvulus",
+    "B": "Intussusception",
+    "C": "Meckel diverticulum",
+    "D": "Appendicitis",
+    "E": "Necrotizing enterocolitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Intussusception classically presents with intermittent abdominal pain, vomiting, and red currant jelly stools due to mucosal ischemia."
+},
+{
+  "id": 28,
+  "question": "Which part of the gastrointestinal tract is most commonly affected in Crohn’s disease?",
+  "options": {
+    "A": "Rectum",
+    "B": "Colon only",
+    "C": "Terminal ileum",
+    "D": "Jejunum",
+    "E": "Stomach"
+  },
+  "correct_answer": "C",
+  "explanation": "Crohn’s disease most commonly affects the terminal ileum, although it can involve any part of the GI tract."
+},
+{
+  "id": 29,
+  "question": "A patient with liver cirrhosis develops gynecomastia. What is the underlying mechanism?",
+  "options": {
+    "A": "Increased testosterone production",
+    "B": "Decreased estrogen levels",
+    "C": "Increased estrogen due to impaired metabolism",
+    "D": "Prolactin excess",
+    "E": "Thyroid hormone excess"
+  },
+  "correct_answer": "C",
+  "explanation": "Cirrhosis leads to impaired hepatic metabolism of estrogens, resulting in relative estrogen excess and gynecomastia."
+},
+{
+  "id": 30,
+  "question": "A patient presents with acute right upper quadrant pain, fever, and jaundice. What is this triad called?",
+  "options": {
+    "A": "Courvoisier sign",
+    "B": "Murphy sign",
+    "C": "Charcot triad",
+    "D": "Reynolds pentad",
+    "E": "Virchow triad"
+  },
+  "correct_answer": "C",
+  "explanation": "Charcot triad consists of fever, right upper quadrant pain, and jaundice, seen in acute cholangitis."
+},
+{
+  "id": 31,
+  "question": "Which vitamin deficiency is most commonly seen in chronic cholestasis?",
+  "options": {
+    "A": "Vitamin B12",
+    "B": "Vitamin C",
+    "C": "Vitamin K",
+    "D": "Vitamin B1",
+    "E": "Vitamin B6"
+  },
+  "correct_answer": "C",
+  "explanation": "Fat-soluble vitamin deficiency occurs in cholestasis, with vitamin K deficiency being clinically significant due to coagulopathy."
+},
+{
+  "id": 32,
+  "question": "A patient presents with sudden onset severe epigastric pain radiating to the back and hypotension. What complication is most likely?",
+  "options": {
+    "A": "Pancreatic pseudocyst",
+    "B": "Pancreatic necrosis",
+    "C": "Peptic ulcer perforation",
+    "D": "Gastric outlet obstruction",
+    "E": "Chronic pancreatitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Severe pain with hypotension in acute pancreatitis suggests pancreatic necrosis, a life-threatening complication."
+},
+{
+  "id": 33,
+  "question": "Which condition is associated with skip lesions on endoscopy?",
+  "options": {
+    "A": "Ulcerative colitis",
+    "B": "Crohn’s disease",
+    "C": "Irritable bowel syndrome",
+    "D": "Celiac disease",
+    "E": "Infectious colitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Crohn’s disease shows skip lesions with areas of normal mucosa between inflamed segments."
+},
+{
+  "id": 34,
+  "question": "A patient presents with chronic constipation and a markedly dilated colon. What is the term used to describe this condition?",
+  "options": {
+    "A": "Toxic megacolon",
+    "B": "Megacolon",
+    "C": "Volvulus",
+    "D": "Ileus",
+    "E": "Colitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Megacolon refers to abnormal dilatation of the colon, often due to chronic constipation or obstruction."
+},
+{
+  "id": 35,
+  "question": "Which investigation is best for diagnosing celiac disease?",
+  "options": {
+    "A": "Barium meal",
+    "B": "Stool fat estimation",
+    "C": "Duodenal biopsy",
+    "D": "CT abdomen",
+    "E": "Colonoscopy"
+  },
+  "correct_answer": "C",
+  "explanation": "Duodenal biopsy showing villous atrophy is the gold standard for diagnosing celiac disease."
+},
+{
+  "id": 36,
+  "question": "A patient presents with bleeding per rectum and mucus discharge. Proctoscopy reveals a mass prolapsing through the anus. What is the diagnosis?",
+  "options": {
+    "A": "Internal hemorrhoids",
+    "B": "Rectal prolapse",
+    "C": "Anal fissure",
+    "D": "Rectal carcinoma",
+    "E": "Solitary rectal ulcer"
+  },
+  "correct_answer": "B",
+  "explanation": "Rectal prolapse presents with a circumferential mass protruding through the anus, often with mucus discharge and bleeding."
+},
+{
+  "id": 37,
+  "question": "A patient presents with acute abdominal pain and a rigid abdomen. X-ray shows free air under diaphragm. What is the diagnosis?",
+  "options": {
+    "A": "Acute pancreatitis",
+    "B": "Intestinal obstruction",
+    "C": "Perforated hollow viscus",
+    "D": "Acute appendicitis",
+    "E": "Mesenteric ischemia"
+  },
+  "correct_answer": "C",
+  "explanation": "Free air under the diaphragm indicates perforation of a hollow viscus causing pneumoperitoneum."
+},
+{
+  "id": 38,
+  "question": "Which part of the stomach is most commonly involved in gastric carcinoma?",
+  "options": {
+    "A": "Fundus",
+    "B": "Cardia",
+    "C": "Body",
+    "D": "Antrum",
+    "E": "Pylorus"
+  },
+  "correct_answer": "D",
+  "explanation": "Gastric carcinoma most commonly involves the antrum, especially in regions with high incidence."
+},
+{
+  "id": 39,
+  "question": "A patient presents with chronic diarrhea following ileal resection. What is the cause?",
+  "options": {
+    "A": "Fat malabsorption",
+    "B": "Bile salt malabsorption",
+    "C": "Lactose intolerance",
+    "D": "Protein loss",
+    "E": "Electrolyte imbalance"
+  },
+  "correct_answer": "B",
+  "explanation": "Ileal resection leads to bile salt malabsorption, resulting in secretory diarrhea."
+},
+{
+  "id": 40,
+  "question": "Which condition is associated with an increased risk of gallstones?",
+  "options": {
+    "A": "Crohn’s disease",
+    "B": "Ulcerative colitis",
+    "C": "Ileal disease or resection",
+    "D": "Celiac disease",
+    "E": "Irritable bowel syndrome"
+  },
+  "correct_answer": "C",
+  "explanation": "Ileal disease or resection reduces bile salt reabsorption, increasing the risk of cholesterol gallstones."
+},
+{
+  "id": 41,
+  "question": "A patient presents with weight loss, abdominal pain, and an abdominal bruit. What is the most likely diagnosis?",
+  "options": {
+    "A": "Acute mesenteric ischemia",
+    "B": "Chronic mesenteric ischemia",
+    "C": "Pancreatic carcinoma",
+    "D": "Abdominal tuberculosis",
+    "E": "Irritable bowel syndrome"
+  },
+  "correct_answer": "B",
+  "explanation": "Chronic mesenteric ischemia presents with postprandial pain, weight loss, and abdominal bruit due to atherosclerotic disease."
+},
+{
+  "id": 42,
+  "question": "A patient presents with jaundice, itching, and pale stools. What is the mechanism of pruritus?",
+  "options": {
+    "A": "Histamine release",
+    "B": "Bile salt deposition in skin",
+    "C": "Uremia",
+    "D": "Iron overload",
+    "E": "Vitamin deficiency"
+  },
+  "correct_answer": "B",
+  "explanation": "Pruritus in cholestasis is due to deposition of bile salts in the skin."
+},
+{
+  "id": 43,
+  "question": "A patient presents with chronic abdominal pain and alternating constipation and diarrhea. Investigations are normal. What is the diagnosis?",
+  "options": {
+    "A": "Ulcerative colitis",
+    "B": "Crohn’s disease",
+    "C": "Irritable bowel syndrome",
+    "D": "Colon cancer",
+    "E": "Celiac disease"
+  },
+  "correct_answer": "C",
+  "explanation": "Irritable bowel syndrome is a functional disorder characterized by altered bowel habits with normal investigations."
+},
+{
+  "id": 44,
+  "question": "Which nerve is injured during surgery leading to delayed gastric emptying?",
+  "options": {
+    "A": "Phrenic nerve",
+    "B": "Vagus nerve",
+    "C": "Sympathetic trunk",
+    "D": "Greater splanchnic nerve",
+    "E": "Intercostal nerve"
+  },
+  "correct_answer": "B",
+  "explanation": "Vagal nerve injury impairs gastric motility and leads to delayed gastric emptying."
+},
+{
+  "id": 45,
+  "question": "A patient presents with severe diarrhea after antibiotic use. What is the causative organism?",
+  "options": {
+    "A": "Salmonella",
+    "B": "Shigella",
+    "C": "Clostridioides difficile",
+    "D": "E. coli",
+    "E": "Campylobacter"
+  },
+  "correct_answer": "C",
+  "explanation": "Clostridioides difficile causes antibiotic-associated pseudomembranous colitis."
+},
+{
+  "id": 46,
+  "question": "A patient presents with recurrent abdominal pain and elevated serum porphobilinogen. What is the diagnosis?",
+  "options": {
+    "A": "Acute intermittent porphyria",
+    "B": "Lead poisoning",
+    "C": "Hereditary spherocytosis",
+    "D": "Wilson disease",
+    "E": "Hemochromatosis"
+  },
+  "correct_answer": "A",
+  "explanation": "Acute intermittent porphyria presents with recurrent abdominal pain and elevated porphobilinogen levels."
+}
+  ,
+{
+  "id": 47,
+  "question": "A newborn presents with non-bilious projectile vomiting and visible peristalsis. What is the most likely diagnosis?",
+  "options": {
+    "A": "Duodenal atresia",
+    "B": "Hypertrophic pyloric stenosis",
+    "C": "Malrotation",
+    "D": "Gastroesophageal reflux",
+    "E": "Necrotizing enterocolitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Hypertrophic pyloric stenosis presents with projectile non-bilious vomiting, visible peristalsis, and an olive-shaped mass in the epigastrium."
+},
+{
+  "id": 48,
+  "question": "A patient presents with painful swallowing and retrosternal chest pain. Endoscopy shows discrete, punched-out ulcers in the esophagus. What is the cause?",
+  "options": {
+    "A": "Candida albicans",
+    "B": "Herpes simplex virus",
+    "C": "Cytomegalovirus",
+    "D": "HIV esophagitis",
+    "E": "Reflux esophagitis"
+  },
+  "correct_answer": "B",
+  "explanation": "HSV esophagitis causes discrete, well-circumscribed punched-out ulcers, commonly in immunocompromised patients."
+},
+{
+  "id": 49,
+  "question": "A patient with chronic pancreatitis develops a cystic lesion near the pancreas. What is the diagnosis?",
+  "options": {
+    "A": "Pancreatic abscess",
+    "B": "Pancreatic pseudocyst",
+    "C": "Pancreatic carcinoma",
+    "D": "Serous cystadenoma",
+    "E": "Mucinous cystadenoma"
+  },
+  "correct_answer": "B",
+  "explanation": "Pancreatic pseudocyst is a common complication of chronic pancreatitis, formed by pancreatic fluid encapsulated by fibrous tissue."
+},
+{
+  "id": 50,
+  "question": "Which sign is seen in acute appendicitis when pain increases on internal rotation of the flexed right hip?",
+  "options": {
+    "A": "Rovsing sign",
+    "B": "Psoas sign",
+    "C": "Obturator sign",
+    "D": "Murphy sign",
+    "E": "Blumberg sign"
+  },
+  "correct_answer": "C",
+  "explanation": "The obturator sign is positive when internal rotation of the flexed hip causes pain, suggesting pelvic appendicitis."
+},
+{
+  "id": 51,
+  "question": "A patient presents with jaundice, ascites, and tender hepatomegaly. What is the most likely diagnosis?",
+  "options": {
+    "A": "Cirrhosis",
+    "B": "Budd–Chiari syndrome",
+    "C": "Portal vein thrombosis",
+    "D": "Fatty liver disease",
+    "E": "Hepatic encephalopathy"
+  },
+  "correct_answer": "B",
+  "explanation": "Budd–Chiari syndrome is caused by hepatic venous outflow obstruction and presents with tender hepatomegaly, ascites, and jaundice."
+},
+{
+  "id": 52,
+  "question": "A patient presents with chronic diarrhea and foul-smelling bulky stools. Which test best confirms fat malabsorption?",
+  "options": {
+    "A": "D-xylose test",
+    "B": "Sudan stain of stool",
+    "C": "Hydrogen breath test",
+    "D": "Schilling test",
+    "E": "Serum albumin"
+  },
+  "correct_answer": "B",
+  "explanation": "Sudan stain detects excess fat globules in stool, confirming steatorrhea."
+},
+{
+  "id": 53,
+  "question": "Which condition predisposes to gastric volvulus?",
+  "options": {
+    "A": "Hiatal hernia",
+    "B": "Peptic ulcer disease",
+    "C": "Gastritis",
+    "D": "Gastroesophageal reflux",
+    "E": "Achalasia"
+  },
+  "correct_answer": "A",
+  "explanation": "Hiatal hernia predisposes to gastric volvulus due to increased mobility of the stomach."
+},
+{
+  "id": 54,
+  "question": "A patient presents with chronic liver disease and spider nevi. What is the mechanism?",
+  "options": {
+    "A": "Portal hypertension",
+    "B": "Estrogen excess",
+    "C": "Hypoalbuminemia",
+    "D": "Vitamin deficiency",
+    "E": "Coagulopathy"
+  },
+  "correct_answer": "B",
+  "explanation": "Spider nevi occur due to increased circulating estrogens from impaired hepatic metabolism."
+},
+{
+  "id": 55,
+  "question": "A patient presents with acute abdominal pain and bloody diarrhea after atrial fibrillation. What is the diagnosis?",
+  "options": {
+    "A": "Crohn’s disease",
+    "B": "Ulcerative colitis",
+    "C": "Acute mesenteric ischemia",
+    "D": "Ischemic colitis",
+    "E": "Infectious colitis"
+  },
+  "correct_answer": "C",
+  "explanation": "Embolism from atrial fibrillation can cause acute mesenteric ischemia presenting with severe pain and bloody diarrhea."
+},
+{
+  "id": 56,
+  "question": "A patient presents with progressive dysphagia and regurgitation of undigested food at night. What is the diagnosis?",
+  "options": {
+    "A": "Achalasia cardia",
+    "B": "Esophageal carcinoma",
+    "C": "Zenker diverticulum",
+    "D": "Diffuse esophageal spasm",
+    "E": "GERD"
+  },
+  "correct_answer": "C",
+  "explanation": "Zenker diverticulum causes regurgitation of undigested food, halitosis, and nocturnal aspiration."
+},
+{
+  "id": 57,
+  "question": "Which tumor marker is associated with hepatocellular carcinoma?",
+  "options": {
+    "A": "CEA",
+    "B": "CA 19-9",
+    "C": "AFP",
+    "D": "CA-125",
+    "E": "PSA"
+  },
+  "correct_answer": "C",
+  "explanation": "Alpha-fetoprotein (AFP) is commonly elevated in hepatocellular carcinoma."
+},
+{
+  "id": 58,
+  "question": "A patient presents with abdominal pain relieved by defecation and bloating. Investigations are normal. What is the diagnosis?",
+  "options": {
+    "A": "Ulcerative colitis",
+    "B": "Crohn’s disease",
+    "C": "Irritable bowel syndrome",
+    "D": "Celiac disease",
+    "E": "Diverticulitis"
+  },
+  "correct_answer": "C",
+  "explanation": "IBS presents with abdominal pain relieved by defecation, bloating, and normal investigations."
+},
+{
+  "id": 59,
+  "question": "A patient presents with painful perianal fistula and skip lesions on colonoscopy. What is the diagnosis?",
+  "options": {
+    "A": "Ulcerative colitis",
+    "B": "Crohn’s disease",
+    "C": "Colon cancer",
+    "D": "Anal fissure",
+    "E": "Tuberculosis"
+  },
+  "correct_answer": "B",
+  "explanation": "Perianal fistula and skip lesions are characteristic of Crohn’s disease."
+},
+{
+  "id": 60,
+  "question": "Which condition is associated with toxic megacolon?",
+  "options": {
+    "A": "Crohn’s disease",
+    "B": "Irritable bowel syndrome",
+    "C": "Ulcerative colitis",
+    "D": "Celiac disease",
+    "E": "Diverticulosis"
+  },
+  "correct_answer": "C",
+  "explanation": "Toxic megacolon is a life-threatening complication of ulcerative colitis."
+},
+{
+  "id": 61,
+  "question": "A patient presents with anemia, glossitis, and diarrhea. What deficiency is most likely?",
+  "options": {
+    "A": "Vitamin B12",
+    "B": "Iron",
+    "C": "Folate",
+    "D": "Niacin",
+    "E": "Vitamin A"
+  },
+  "correct_answer": "D",
+  "explanation": "Niacin deficiency (pellagra) causes diarrhea, dermatitis, and dementia; glossitis and anemia may be present."
+},
+{
+  "id": 62,
+  "question": "A patient presents with severe abdominal pain and vomiting. CT shows whirl sign. What is the diagnosis?",
+  "options": {
+    "A": "Intussusception",
+    "B": "Volvulus",
+    "C": "Appendicitis",
+    "D": "Pancreatitis",
+    "E": "Ileus"
+  },
+  "correct_answer": "B",
+  "explanation": "The whirl sign on CT is characteristic of volvulus due to twisting of bowel and mesentery."
+},
+{
+  "id": 63,
+  "question": "Which complication is most common after Billroth II surgery?",
+  "options": {
+    "A": "Dumping syndrome",
+    "B": "Afferent loop syndrome",
+    "C": "Marginal ulcer",
+    "D": "Gastric carcinoma",
+    "E": "Reflux gastritis"
+  },
+  "correct_answer": "A",
+  "explanation": "Dumping syndrome is the most common complication following partial gastrectomy, especially Billroth II."
+},
+{
+  "id": 64,
+  "question": "A patient presents with chronic cough and hoarseness along with reflux symptoms. What is the diagnosis?",
+  "options": {
+    "A": "Achalasia",
+    "B": "GERD",
+    "C": "Esophageal carcinoma",
+    "D": "Esophagitis",
+    "E": "Zenker diverticulum"
+  },
+  "correct_answer": "B",
+  "explanation": "GERD can cause extra-esophageal manifestations such as chronic cough and hoarseness."
+},
+{
+  "id": 65,
+  "question": "A patient presents with right iliac fossa pain and diarrhea. Colonoscopy shows cobblestone appearance. What is the diagnosis?",
+  "options": {
+    "A": "Ulcerative colitis",
+    "B": "Crohn’s disease",
+    "C": "Colon cancer",
+    "D": "Appendicitis",
+    "E": "Infectious colitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Cobblestone appearance on colonoscopy is characteristic of Crohn’s disease."
+},
+{
+  "id": 66,
+  "question": "Which condition is associated with Meckel diverticulum?",
+  "options": {
+    "A": "Iron deficiency anemia",
+    "B": "Massive painless bleeding",
+    "C": "Steatorrhea",
+    "D": "Dysphagia",
+    "E": "Constipation"
+  },
+  "correct_answer": "B",
+  "explanation": "Meckel diverticulum commonly presents with massive painless lower GI bleeding due to ectopic gastric mucosa."
+},
+{
+  "id": 67,
+  "question": "A patient presents with abdominal pain and fever after ERCP. What is the diagnosis?",
+  "options": {
+    "A": "Cholangitis",
+    "B": "Pancreatitis",
+    "C": "Perforation",
+    "D": "Bleeding",
+    "E": "Hepatitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Post-ERCP pancreatitis is the most common complication, presenting with abdominal pain and fever."
+},
+{
+  "id": 68,
+  "question": "Which organism causes pseudomembranous colitis?",
+  "options": {
+    "A": "E. coli",
+    "B": "Shigella",
+    "C": "Salmonella",
+    "D": "Clostridioides difficile",
+    "E": "Campylobacter"
+  },
+  "correct_answer": "D",
+  "explanation": "Clostridioides difficile produces toxins that cause pseudomembranous colitis, usually after antibiotic use."
+},
+{
+  "id": 69,
+  "question": "A patient presents with painful swallowing and white plaques in the esophagus. What is the cause?",
+  "options": {
+    "A": "HSV",
+    "B": "CMV",
+    "C": "Candida albicans",
+    "D": "HIV",
+    "E": "GERD"
+  },
+  "correct_answer": "C",
+  "explanation": "Candida esophagitis presents with white plaques and odynophagia, especially in immunocompromised patients."
+},
+{
+  "id": 70,
+  "question": "Which condition causes watermelon stomach?",
+  "options": {
+    "A": "Portal hypertension",
+    "B": "Cirrhosis",
+    "C": "Gastric antral vascular ectasia",
+    "D": "Peptic ulcer disease",
+    "E": "Gastritis"
+  },
+  "correct_answer": "C",
+  "explanation": "Watermelon stomach refers to gastric antral vascular ectasia, seen as longitudinal red stripes on endoscopy."
+},
+{
+  "id": 71,
+  "question": "A patient presents with sudden severe abdominal pain and metabolic acidosis. What is the most likely diagnosis?",
+  "options": {
+    "A": "Acute pancreatitis",
+    "B": "Intestinal obstruction",
+    "C": "Acute mesenteric ischemia",
+    "D": "Perforated ulcer",
+    "E": "Appendicitis"
+  },
+  "correct_answer": "C",
+  "explanation": "Acute mesenteric ischemia causes severe pain with metabolic acidosis due to bowel infarction."
+},
+{
+  "id": 72,
+  "question": "A patient presents with chronic diarrhea and peripheral neuropathy. What deficiency is likely?",
+  "options": {
+    "A": "Vitamin B1",
+    "B": "Vitamin B6",
+    "C": "Vitamin B12",
+    "D": "Vitamin C",
+    "E": "Vitamin D"
+  },
+  "correct_answer": "C",
+  "explanation": "Vitamin B12 deficiency causes diarrhea, anemia, and peripheral neuropathy."
+},
+{
+  "id": 73,
+  "question": "A patient presents with jaundice and weight loss. CT shows a pancreatic head mass. What sign is expected?",
+  "options": {
+    "A": "Murphy sign",
+    "B": "Courvoisier sign",
+    "C": "Grey Turner sign",
+    "D": "Cullen sign",
+    "E": "Blumberg sign"
+  },
+  "correct_answer": "B",
+  "explanation": "Pancreatic head carcinoma causes painless jaundice with a palpable gallbladder (Courvoisier sign)."
+},
+{
+  "id": 74,
+  "question": "Which condition causes lead pipe appearance on imaging?",
+  "options": {
+    "A": "Crohn’s disease",
+    "B": "Ulcerative colitis",
+    "C": "Diverticulosis",
+    "D": "Colon cancer",
+    "E": "Ischemic colitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Ulcerative colitis causes loss of haustrations leading to lead pipe appearance."
+},
+{
+  "id": 75,
+  "question": "A patient presents with postprandial fullness, vomiting, and weight loss. Endoscopy shows gastric outlet obstruction. What is the most likely cause?",
+  "options": {
+    "A": "Chronic pancreatitis",
+    "B": "Gastric carcinoma",
+    "C": "Peptic ulcer disease",
+    "D": "GERD",
+    "E": "Achalasia"
+  },
+  "correct_answer": "C",
+  "explanation": "Chronic peptic ulcer disease can cause scarring and gastric outlet obstruction."
+},
+{
+  "id": 76,
+  "question": "Which condition is associated with Whipple disease?",
+  "options": {
+    "A": "Arthralgia and diarrhea",
+    "B": "Bloody diarrhea",
+    "C": "Constipation",
+    "D": "Dysphagia",
+    "E": "Jaundice"
+  },
+  "correct_answer": "A",
+  "explanation": "Whipple disease presents with malabsorption, diarrhea, weight loss, and arthralgia."
+}
+  ,
+{
+  "id": 77,
+  "question": "A patient presents with chronic abdominal pain, anemia, and a palpable mass in the right iliac fossa. What is the most likely diagnosis?",
+  "options": {
+    "A": "Crohn’s disease",
+    "B": "Ileocecal tuberculosis",
+    "C": "Appendicular abscess",
+    "D": "Colon cancer",
+    "E": "Ameboma"
+  },
+  "correct_answer": "B",
+  "explanation": "Ileocecal tuberculosis commonly presents with chronic pain, anemia, weight loss, and a palpable right iliac fossa mass."
+},
+{
+  "id": 78,
+  "question": "A patient with cirrhosis presents with confusion and flapping tremor. What precipitating factor commonly triggers this condition?",
+  "options": {
+    "A": "High protein intake",
+    "B": "Hypokalemia",
+    "C": "GI bleeding",
+    "D": "Infection",
+    "E": "All of the above"
+  },
+  "correct_answer": "E",
+  "explanation": "Hepatic encephalopathy can be precipitated by increased nitrogen load, electrolyte imbalance, infection, or gastrointestinal bleeding."
+},
+{
+  "id": 79,
+  "question": "Which investigation is most useful in diagnosing portal hypertension?",
+  "options": {
+    "A": "Ultrasound abdomen",
+    "B": "Doppler ultrasound",
+    "C": "CT abdomen",
+    "D": "Hepatic venous pressure gradient",
+    "E": "Endoscopy"
+  },
+  "correct_answer": "D",
+  "explanation": "Hepatic venous pressure gradient measurement is the gold standard for diagnosing portal hypertension."
+},
+{
+  "id": 80,
+  "question": "A patient presents with acute epigastric pain and elevated serum amylase. Which severity scoring system is used in acute pancreatitis?",
+  "options": {
+    "A": "Child–Pugh score",
+    "B": "Ranson criteria",
+    "C": "MELD score",
+    "D": "APGAR score",
+    "E": "Rockall score"
+  },
+  "correct_answer": "B",
+  "explanation": "Ranson criteria are commonly used to assess severity and prognosis in acute pancreatitis."
+},
+{
+  "id": 81,
+  "question": "A patient presents with dysphagia, iron deficiency anemia, and esophageal webs. What is the diagnosis?",
+  "options": {
+    "A": "Achalasia",
+    "B": "Plummer–Vinson syndrome",
+    "C": "Esophageal carcinoma",
+    "D": "GERD",
+    "E": "Zenker diverticulum"
+  },
+  "correct_answer": "B",
+  "explanation": "Plummer–Vinson syndrome is characterized by dysphagia, iron deficiency anemia, and esophageal webs."
+},
+{
+  "id": 82,
+  "question": "Which complication is most commonly seen in chronic ulcerative colitis?",
+  "options": {
+    "A": "Fistula",
+    "B": "Stricture",
+    "C": "Colorectal carcinoma",
+    "D": "Abscess",
+    "E": "Malabsorption"
+  },
+  "correct_answer": "C",
+  "explanation": "Long-standing ulcerative colitis increases the risk of colorectal carcinoma."
+},
+{
+  "id": 83,
+  "question": "A patient presents with severe abdominal pain, fever, and leukocytosis. CT shows gas in the bowel wall. What is the diagnosis?",
+  "options": {
+    "A": "Necrotizing enterocolitis",
+    "B": "Ischemic colitis",
+    "C": "Pneumatosis intestinalis",
+    "D": "Intestinal obstruction",
+    "E": "Perforation"
+  },
+  "correct_answer": "C",
+  "explanation": "Gas within the bowel wall on imaging is termed pneumatosis intestinalis and is associated with ischemia or necrosis."
+},
+{
+  "id": 84,
+  "question": "A patient presents with chronic diarrhea and weight loss. Stool examination shows ova and parasites. What is the most likely organism?",
+  "options": {
+    "A": "Entamoeba histolytica",
+    "B": "Giardia lamblia",
+    "C": "Ascaris lumbricoides",
+    "D": "Strongyloides",
+    "E": "Hookworm"
+  },
+  "correct_answer": "B",
+  "explanation": "Giardia lamblia causes chronic diarrhea, malabsorption, and weight loss."
+},
+{
+  "id": 85,
+  "question": "A patient presents with painful swallowing and linear ulcers in the esophagus. What is the likely cause?",
+  "options": {
+    "A": "HSV",
+    "B": "Candida",
+    "C": "CMV",
+    "D": "GERD",
+    "E": "HIV"
+  },
+  "correct_answer": "C",
+  "explanation": "CMV esophagitis typically causes large, linear ulcers, especially in immunocompromised patients."
+},
+{
+  "id": 86,
+  "question": "Which condition presents with colicky abdominal pain, vomiting, and visible peristalsis in adults?",
+  "options": {
+    "A": "Paralytic ileus",
+    "B": "Small bowel obstruction",
+    "C": "Perforated ulcer",
+    "D": "Acute pancreatitis",
+    "E": "Mesenteric ischemia"
+  },
+  "correct_answer": "B",
+  "explanation": "Small bowel obstruction causes colicky pain, vomiting, and visible peristalsis."
+},
+{
+  "id": 87,
+  "question": "A patient with chronic alcoholism presents with confusion, ophthalmoplegia, and ataxia. What is the diagnosis?",
+  "options": {
+    "A": "Hepatic encephalopathy",
+    "B": "Wernicke encephalopathy",
+    "C": "Delirium tremens",
+    "D": "Subdural hematoma",
+    "E": "Alcohol withdrawal"
+  },
+  "correct_answer": "B",
+  "explanation": "Wernicke encephalopathy is caused by thiamine deficiency and presents with confusion, ophthalmoplegia, and ataxia."
+},
+{
+  "id": 88,
+  "question": "Which imaging modality is best for detecting gallstones?",
+  "options": {
+    "A": "CT abdomen",
+    "B": "MRI",
+    "C": "Ultrasound abdomen",
+    "D": "ERCP",
+    "E": "MRCP"
+  },
+  "correct_answer": "C",
+  "explanation": "Ultrasound is the first-line and most sensitive investigation for gallstones."
+},
+{
+  "id": 89,
+  "question": "A patient presents with painless jaundice and pruritus. Labs show elevated ALP. What is the pattern of liver injury?",
+  "options": {
+    "A": "Hepatocellular",
+    "B": "Cholestatic",
+    "C": "Mixed",
+    "D": "Ischemic",
+    "E": "Alcoholic"
+  },
+  "correct_answer": "B",
+  "explanation": "Painless jaundice with pruritus and elevated ALP indicates a cholestatic pattern of liver injury."
+},
+{
+  "id": 90,
+  "question": "A patient presents with abdominal pain, fever, and diarrhea after recent travel. Stool culture grows curved gram-negative bacilli. What is the organism?",
+  "options": {
+    "A": "Salmonella",
+    "B": "Shigella",
+    "C": "Campylobacter jejuni",
+    "D": "Vibrio cholerae",
+    "E": "E. coli"
+  },
+  "correct_answer": "C",
+  "explanation": "Campylobacter jejuni is a curved gram-negative bacillus causing traveler’s diarrhea."
+},
+{
+  "id": 91,
+  "question": "A patient presents with portal hypertension but normal liver function tests. What is the diagnosis?",
+  "options": {
+    "A": "Cirrhosis",
+    "B": "Budd–Chiari syndrome",
+    "C": "Non-cirrhotic portal fibrosis",
+    "D": "Alcoholic liver disease",
+    "E": "Fatty liver"
+  },
+  "correct_answer": "C",
+  "explanation": "Non-cirrhotic portal fibrosis presents with portal hypertension and preserved liver function."
+},
+{
+  "id": 92,
+  "question": "Which complication is most feared in acute pancreatitis?",
+  "options": {
+    "A": "Pseudocyst",
+    "B": "Hypocalcemia",
+    "C": "Pancreatic necrosis",
+    "D": "Diabetes mellitus",
+    "E": "Steatorrhea"
+  },
+  "correct_answer": "C",
+  "explanation": "Pancreatic necrosis is the most serious and life-threatening complication of acute pancreatitis."
+},
+{
+  "id": 93,
+  "question": "A patient presents with dysphagia, halitosis, and regurgitation of food eaten days earlier. What is the diagnosis?",
+  "options": {
+    "A": "Achalasia",
+    "B": "Esophageal carcinoma",
+    "C": "Zenker diverticulum",
+    "D": "GERD",
+    "E": "Esophagitis"
+  },
+  "correct_answer": "C",
+  "explanation": "Zenker diverticulum causes halitosis and regurgitation of undigested food."
+},
+{
+  "id": 94,
+  "question": "Which test is most specific for celiac disease?",
+  "options": {
+    "A": "Anti-endomysial antibody",
+    "B": "Anti-gliadin antibody",
+    "C": "Anti-tTG antibody",
+    "D": "Stool fat",
+    "E": "D-xylose test"
+  },
+  "correct_answer": "A",
+  "explanation": "Anti-endomysial antibodies are highly specific for celiac disease."
+},
+{
+  "id": 95,
+  "question": "A patient presents with acute abdomen and absent bowel sounds. What is the diagnosis?",
+  "options": {
+    "A": "Small bowel obstruction",
+    "B": "Paralytic ileus",
+    "C": "Volvulus",
+    "D": "Intussusception",
+    "E": "Appendicitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Paralytic ileus presents with absent bowel sounds and diffuse abdominal distension."
+},
+{
+  "id": 96,
+  "question": "A patient presents with chronic diarrhea, arthritis, and weight loss. PAS-positive macrophages are seen on biopsy. What is the diagnosis?",
+  "options": {
+    "A": "Celiac disease",
+    "B": "Crohn’s disease",
+    "C": "Whipple disease",
+    "D": "Ulcerative colitis",
+    "E": "Intestinal tuberculosis"
+  },
+  "correct_answer": "C",
+  "explanation": "Whipple disease shows PAS-positive macrophages and presents with diarrhea, arthritis, and weight loss."
+},
+{
+  "id": 97,
+  "question": "Which condition predisposes to hepatocellular carcinoma?",
+  "options": {
+    "A": "Alcoholic cirrhosis",
+    "B": "Chronic hepatitis B",
+    "C": "Chronic hepatitis C",
+    "D": "Hemochromatosis",
+    "E": "All of the above"
+  },
+  "correct_answer": "E",
+  "explanation": "Multiple chronic liver diseases predispose to hepatocellular carcinoma."
+},
+{
+  "id": 98,
+  "question": "A patient presents with abdominal pain and diarrhea after starting antibiotics. Colonoscopy shows pseudomembranes. What is the treatment?",
+  "options": {
+    "A": "Oral vancomycin",
+    "B": "Metronidazole",
+    "C": "Ciprofloxacin",
+    "D": "Loperamide",
+    "E": "Steroids"
+  },
+  "correct_answer": "A",
+  "explanation": "Oral vancomycin is first-line treatment for severe Clostridioides difficile infection."
+},
+{
+  "id": 99,
+  "question": "Which condition causes portal-systemic encephalopathy?",
+  "options": {
+    "A": "Cirrhosis",
+    "B": "Portosystemic shunts",
+    "C": "GI bleeding",
+    "D": "High protein diet",
+    "E": "All of the above"
+  },
+  "correct_answer": "E",
+  "explanation": "Multiple factors contribute to portal-systemic encephalopathy in liver disease."
+},
+{
+  "id": 100,
+  "question": "A patient presents with chronic right upper quadrant pain and porcelain gallbladder on imaging. What is the risk?",
+  "options": {
+    "A": "Cholecystitis",
+    "B": "Gallbladder carcinoma",
+    "C": "Cholangitis",
+    "D": "Pancreatitis",
+    "E": "Hepatitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Porcelain gallbladder is associated with an increased risk of gallbladder carcinoma."
+},
+{
+  "id": 101,
+  "question": "A patient presents with abdominal pain and melena. Endoscopy shows a posterior duodenal ulcer. What artery is at risk?",
+  "options": {
+    "A": "Left gastric artery",
+    "B": "Gastroduodenal artery",
+    "C": "Splenic artery",
+    "D": "Hepatic artery",
+    "E": "Superior mesenteric artery"
+  },
+  "correct_answer": "B",
+  "explanation": "Posterior duodenal ulcers can erode into the gastroduodenal artery causing severe bleeding."
+},
+{
+  "id": 102,
+  "question": "Which condition presents with coffee-ground vomitus?",
+  "options": {
+    "A": "Lower GI bleed",
+    "B": "Upper GI bleed",
+    "C": "Hemoptysis",
+    "D": "Epistaxis",
+    "E": "Mallory–Weiss tear"
+  },
+  "correct_answer": "B",
+  "explanation": "Coffee-ground vomitus indicates upper gastrointestinal bleeding with partial digestion of blood."
+},
+{
+  "id": 103,
+  "question": "A patient presents with chronic liver disease and palmar erythema. What is the mechanism?",
+  "options": {
+    "A": "Portal hypertension",
+    "B": "Estrogen excess",
+    "C": "Hypoalbuminemia",
+    "D": "Anemia",
+    "E": "Vitamin deficiency"
+  },
+  "correct_answer": "B",
+  "explanation": "Palmar erythema is due to estrogen excess from impaired hepatic metabolism."
+},
+{
+  "id": 104,
+  "question": "Which parasite causes massive upper GI bleeding due to duodenal ulceration?",
+  "options": {
+    "A": "Ascaris",
+    "B": "Hookworm",
+    "C": "Strongyloides",
+    "D": "Ancylostoma duodenale",
+    "E": "Giardia"
+  },
+  "correct_answer": "D",
+  "explanation": "Ancylostoma duodenale causes blood loss leading to anemia and may cause GI bleeding."
+},
+{
+  "id": 105,
+  "question": "A patient presents with chronic abdominal pain and elevated alkaline phosphatase. MRCP shows beading of bile ducts. What is the diagnosis?",
+  "options": {
+    "A": "Primary biliary cholangitis",
+    "B": "Primary sclerosing cholangitis",
+    "C": "Cholangiocarcinoma",
+    "D": "Gallstones",
+    "E": "Acute cholangitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Beading of bile ducts on MRCP is characteristic of primary sclerosing cholangitis."
+},
+{
+  "id": 106,
+  "question": "A patient presents with chronic constipation and ribbon-like stools. What is the most likely diagnosis?",
+  "options": {
+    "A": "Irritable bowel syndrome",
+    "B": "Colon cancer",
+    "C": "Anal fissure",
+    "D": "Hemorrhoids",
+    "E": "Diverticulosis"
+  },
+  "correct_answer": "B",
+  "explanation": "Ribbon-like stools suggest luminal narrowing, commonly due to colorectal carcinoma."
+}
+  ,
+{
+  "id": 107,
+  "question": "A patient presents with right upper quadrant pain, fever, jaundice, hypotension, and altered mental status. What is this condition called?",
+  "options": {
+    "A": "Charcot triad",
+    "B": "Reynolds pentad",
+    "C": "Courvoisier sign",
+    "D": "Sepsis",
+    "E": "Acute hepatitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Reynolds pentad consists of Charcot triad plus hypotension and altered mental status, indicating severe acute cholangitis."
+},
+{
+  "id": 108,
+  "question": "A patient presents with massive painless lower gastrointestinal bleeding. What is the most likely cause in a young patient?",
+  "options": {
+    "A": "Ulcerative colitis",
+    "B": "Crohn’s disease",
+    "C": "Meckel diverticulum",
+    "D": "Hemorrhoids",
+    "E": "Colon cancer"
+  },
+  "correct_answer": "C",
+  "explanation": "Meckel diverticulum commonly causes massive painless lower GI bleeding in young patients due to ectopic gastric mucosa."
+},
+{
+  "id": 109,
+  "question": "A patient presents with abdominal distension, pain, and constipation. X-ray shows massively dilated sigmoid colon with coffee bean sign. What is the diagnosis?",
+  "options": {
+    "A": "Intussusception",
+    "B": "Cecal volvulus",
+    "C": "Sigmoid volvulus",
+    "D": "Paralytic ileus",
+    "E": "Megacolon"
+  },
+  "correct_answer": "C",
+  "explanation": "The coffee bean sign on abdominal X-ray is characteristic of sigmoid volvulus."
+},
+{
+  "id": 110,
+  "question": "Which laboratory finding is most consistent with obstructive jaundice?",
+  "options": {
+    "A": "Markedly elevated AST and ALT",
+    "B": "Isolated bilirubin elevation",
+    "C": "Elevated alkaline phosphatase",
+    "D": "Low albumin",
+    "E": "Elevated INR only"
+  },
+  "correct_answer": "C",
+  "explanation": "Obstructive jaundice shows a cholestatic pattern with predominant elevation of alkaline phosphatase."
+},
+{
+  "id": 111,
+  "question": "A patient with chronic pancreatitis develops diabetes mellitus. What is the type of diabetes called?",
+  "options": {
+    "A": "Type 1 diabetes",
+    "B": "Type 2 diabetes",
+    "C": "Gestational diabetes",
+    "D": "Pancreatogenic diabetes",
+    "E": "Steroid-induced diabetes"
+  },
+  "correct_answer": "D",
+  "explanation": "Pancreatogenic (type 3c) diabetes occurs due to destruction of pancreatic endocrine tissue in chronic pancreatitis."
+},
+{
+  "id": 112,
+  "question": "A patient presents with abdominal pain, anemia, and weight loss. Colonoscopy shows apple-core lesion. What is the diagnosis?",
+  "options": {
+    "A": "Crohn’s disease",
+    "B": "Ulcerative colitis",
+    "C": "Colon carcinoma",
+    "D": "Diverticulitis",
+    "E": "Tuberculosis"
+  },
+  "correct_answer": "C",
+  "explanation": "Apple-core lesion on imaging or endoscopy is characteristic of colorectal carcinoma."
+},
+{
+  "id": 113,
+  "question": "Which condition is associated with Cullen sign?",
+  "options": {
+    "A": "Acute appendicitis",
+    "B": "Acute pancreatitis",
+    "C": "Cholecystitis",
+    "D": "Perforated ulcer",
+    "E": "Bowel obstruction"
+  },
+  "correct_answer": "B",
+  "explanation": "Cullen sign (periumbilical ecchymosis) is seen in severe acute pancreatitis due to retroperitoneal hemorrhage."
+},
+{
+  "id": 114,
+  "question": "A patient presents with abdominal pain and fever after eating raw seafood. Stool culture grows comma-shaped organisms. What is the diagnosis?",
+  "options": {
+    "A": "Salmonellosis",
+    "B": "Shigellosis",
+    "C": "Vibrio infection",
+    "D": "E. coli infection",
+    "E": "Campylobacter infection"
+  },
+  "correct_answer": "C",
+  "explanation": "Vibrio species are comma-shaped organisms associated with seafood consumption."
+},
+{
+  "id": 115,
+  "question": "A patient presents with progressive abdominal distension and shifting dullness. What is the most likely fluid?",
+  "options": {
+    "A": "Blood",
+    "B": "Pus",
+    "C": "Ascitic fluid",
+    "D": "Chyle",
+    "E": "Urine"
+  },
+  "correct_answer": "C",
+  "explanation": "Shifting dullness on examination is characteristic of ascites."
+},
+{
+  "id": 116,
+  "question": "Which condition is associated with painless progressive jaundice and weight loss?",
+  "options": {
+    "A": "Acute hepatitis",
+    "B": "Gallstone disease",
+    "C": "Carcinoma head of pancreas",
+    "D": "Cholangitis",
+    "E": "Liver abscess"
+  },
+  "correct_answer": "C",
+  "explanation": "Carcinoma of the head of the pancreas causes painless obstructive jaundice with weight loss."
+},
+{
+  "id": 117,
+  "question": "A patient presents with abdominal pain, diarrhea, and fever. Colonoscopy shows pseudomembranes. What is the diagnosis?",
+  "options": {
+    "A": "Ulcerative colitis",
+    "B": "Crohn’s disease",
+    "C": "Pseudomembranous colitis",
+    "D": "Ischemic colitis",
+    "E": "Amoebic colitis"
+  },
+  "correct_answer": "C",
+  "explanation": "Pseudomembranes on colonoscopy are diagnostic of Clostridioides difficile colitis."
+},
+{
+  "id": 118,
+  "question": "Which condition leads to malabsorption of vitamin B12?",
+  "options": {
+    "A": "Duodenal ulcer",
+    "B": "Jejunal resection",
+    "C": "Ileal resection",
+    "D": "Gastritis",
+    "E": "GERD"
+  },
+  "correct_answer": "C",
+  "explanation": "Vitamin B12 is absorbed in the terminal ileum; resection leads to deficiency."
+},
+{
+  "id": 119,
+  "question": "A patient presents with abdominal pain and palpable purpura on legs. What is the diagnosis?",
+  "options": {
+    "A": "Ulcerative colitis",
+    "B": "Crohn’s disease",
+    "C": "Henoch–Schönlein purpura",
+    "D": "Polyarteritis nodosa",
+    "E": "Systemic lupus erythematosus"
+  },
+  "correct_answer": "C",
+  "explanation": "Henoch–Schönlein purpura causes palpable purpura, abdominal pain, and GI bleeding."
+},
+{
+  "id": 120,
+  "question": "A patient presents with recurrent abdominal pain and vomiting. Imaging shows bowel telescoping. What is the diagnosis?",
+  "options": {
+    "A": "Volvulus",
+    "B": "Intussusception",
+    "C": "Appendicitis",
+    "D": "Ileus",
+    "E": "Hernia"
+  },
+  "correct_answer": "B",
+  "explanation": "Telescoping of bowel segments is characteristic of intussusception."
+},
+{
+  "id": 121,
+  "question": "Which condition is associated with blue sclera and chronic diarrhea?",
+  "options": {
+    "A": "Celiac disease",
+    "B": "Iron deficiency anemia",
+    "C": "Ulcerative colitis",
+    "D": "Crohn’s disease",
+    "E": "Lactose intolerance"
+  },
+  "correct_answer": "B",
+  "explanation": "Iron deficiency anemia can present with blue sclera and is often associated with chronic GI blood loss or malabsorption."
+},
+{
+  "id": 122,
+  "question": "A patient presents with abdominal pain and elevated lipase. CT shows peripancreatic fluid collection. What is the diagnosis?",
+  "options": {
+    "A": "Pancreatic abscess",
+    "B": "Pancreatic pseudocyst",
+    "C": "Acute pancreatitis",
+    "D": "Chronic pancreatitis",
+    "E": "Pancreatic carcinoma"
+  },
+  "correct_answer": "C",
+  "explanation": "Peripancreatic fluid collection is a feature of acute pancreatitis."
+},
+{
+  "id": 123,
+  "question": "Which condition is associated with target lesions on imaging in the intestine?",
+  "options": {
+    "A": "Volvulus",
+    "B": "Intussusception",
+    "C": "Appendicitis",
+    "D": "Ileus",
+    "E": "Tuberculosis"
+  },
+  "correct_answer": "B",
+  "explanation": "Target or doughnut sign on imaging is characteristic of intussusception."
+},
+{
+  "id": 124,
+  "question": "A patient presents with chronic diarrhea and hypokalemia. What type of diarrhea is this?",
+  "options": {
+    "A": "Osmotic diarrhea",
+    "B": "Secretory diarrhea",
+    "C": "Inflammatory diarrhea",
+    "D": "Fatty diarrhea",
+    "E": "Functional diarrhea"
+  },
+  "correct_answer": "B",
+  "explanation": "Secretory diarrhea causes electrolyte loss and persists even during fasting, leading to hypokalemia."
+},
+{
+  "id": 125,
+  "question": "A patient presents with abdominal pain, fever, and guarding. CT shows thickened bowel wall and thumbprinting. What is the diagnosis?",
+  "options": {
+    "A": "Crohn’s disease",
+    "B": "Ulcerative colitis",
+    "C": "Ischemic colitis",
+    "D": "Infectious colitis",
+    "E": "Diverticulitis"
+  },
+  "correct_answer": "C",
+  "explanation": "Thumbprinting on imaging indicates submucosal edema, characteristic of ischemic colitis."
+},
+{
+  "id": 126,
+  "question": "A patient presents with malabsorption, weight loss, and tropical residence history. What is the diagnosis?",
+  "options": {
+    "A": "Celiac disease",
+    "B": "Crohn’s disease",
+    "C": "Tropical sprue",
+    "D": "Whipple disease",
+    "E": "Lactose intolerance"
+  },
+  "correct_answer": "C",
+  "explanation": "Tropical sprue presents with malabsorption and chronic diarrhea in individuals living in or visiting tropical regions."
+}
+]
