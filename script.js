@@ -1,6 +1,7 @@
 let questions = [];
 let currentIndex = 0;
 let answered = false;
+let score = 0;
 
 fetch("questions_v1.json")
   .then(response => response.json())
@@ -43,11 +44,18 @@ function selectAnswer(selectedDiv, selectedKey) {
   options.forEach(opt => {
     const key = opt.innerText.charAt(0);
     if (key === q.correct_answer) {
-      opt.classList.add("correct");
-    }
-    if (key === selectedKey && key !== q.correct_answer) {
-      opt.classList.add("wrong");
-    }
+  opt.classList.add("correct");
+
+  if (selectedKey === q.correct_answer) {
+    score++;
+    document.getElementById("score").innerText = `Score: ${score}`;
+  }
+}
+
+if (key === selectedKey && key !== q.correct_answer) {
+  opt.classList.add("wrong");
+}
+    
   });
 
   const explanationDiv = document.getElementById("explanation");
@@ -61,7 +69,8 @@ function nextQuestion() {
   currentIndex++;
   if (currentIndex >= questions.length) {
     document.getElementById("quiz-box").innerHTML =
-      "<h2>🎉 Quiz Completed</h2><p>You have reached the end of the questions.</p>";
+  `<h2>🎉 Quiz Completed</h2>
+   <p><strong>Your Score:</strong> ${score} / ${questions.length}</p>`;
     return;
   }
   loadQuestion();
