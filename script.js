@@ -39,30 +39,36 @@ function selectAnswer(selectedDiv, selectedKey) {
   answered = true;
 
   const q = questions[currentIndex];
-  const options = document.querySelectorAll(".option");
 
-  // ✅ SCORE LOGIC (ONLY ONCE)
-  if (selectedKey === q.correct_answer) {
-    score++;
-    document.getElementById("score").innerText = `Score: ${score}`;
+  // ✅ FORCE SCORE UPDATE
+  if (selectedKey === String(q.correct_answer).trim()) {
+    score = score + 1;
+  }
+
+  // 🔁 FORCE REFRESH SCORE DISPLAY
+  const scoreDiv = document.getElementById("score");
+  if (scoreDiv) {
+    scoreDiv.innerText = "Score: " + score;
   }
 
   // 🎨 COLOR OPTIONS
+  const options = document.querySelectorAll(".option");
   options.forEach(opt => {
-    const key = opt.innerText.charAt(0);
+    const key = opt.innerText.trim().charAt(0);
 
-    if (key === q.correct_answer) {
+    if (key === String(q.correct_answer).trim()) {
       opt.classList.add("correct");
     }
 
-    if (key === selectedKey && key !== q.correct_answer) {
+    if (key === selectedKey && key !== String(q.correct_answer).trim()) {
       opt.classList.add("wrong");
     }
   });
 
-  // Show explanation
+  // 📘 SHOW EXPLANATION
   const explanationDiv = document.getElementById("explanation");
-  explanationDiv.innerHTML = `<strong>Explanation:</strong><br>${q.explanation}`;
+  explanationDiv.innerHTML =
+    "<strong>Explanation:</strong><br>" + q.explanation;
   explanationDiv.classList.remove("hidden");
 
   document.getElementById("next-btn").disabled = false;
