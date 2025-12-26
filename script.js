@@ -3,7 +3,7 @@ let currentIndex = 0;
 let answered = false;
 let score = 0;
 
-fetch("questions_v1.json")
+fetch("Dermatology.json")
   .then(response => response.json())
   .then(data => {
     questions = data;
