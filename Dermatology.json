@@ -1,0 +1,1612 @@
+[
+  {
+    "id": 1,
+    "subject": "Dermatology",
+    "question": "A 32-year-old woman presents to your clinic for a skin checkup. On examination, she is found to have a skin lesion on her upper back. The lesion is highly suspected of being melanoma. An excisional biopsy with 2 mm margins is performed, and the specimen is sent to a laboratory for histopathological studies. The result is melanoma of 2.5 mm in depth. The margins, however, are clear. Which one of the following would be the next best step in management?",
+    "options": {
+      "A": "A wider excision",
+      "B": "Radiation therapy",
+      "C": "Sentinel node biopsy",
+      "D": "CT scan of the head",
+      "E": "Chemotherapy"
+    },
+    "correct_answer": "A",
+    "explanation": "Even lesions suspected of being melanoma should be surgically excised with 2 mm margins initially. Further management is guided by the biopsy result. A wider excision is required based on the depth of melanoma."
+  },
+  {
+    "id": 2,
+    "subject": "Dermatology",
+    "question": "On a routine health examination, the lesion shown in the following photograph is found on the inner side of the lower lip of a 37-year-old man. The lesion is painless. Which one of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Sebaceous cyst",
+      "B": "Peutz-Jeghers syndrome",
+      "C": "Squamous cell carcinoma of the lip",
+      "D": "Mucous cyst",
+      "E": "Basal cell carcinoma"
+    },
+    "correct_answer": "D",
+    "explanation": "A painless, bluish, dome-shaped lesion on the inner surface of the lower lip is characteristic of a mucous cyst (mucocele)."
+  },
+  {
+    "id": 3,
+    "subject": "Dermatology",
+    "question": "A 61-year-old woman presents to your practice complaining of a rash on her left shin. On examination, there is a well-demarcated 3×2 cm scaly lesion. It is neither painful nor itchy. The lesion is shown in the accompanying photograph. Which one of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Seborrheic keratosis",
+      "B": "Actinic keratosis",
+      "C": "Invasive squamous cell carcinoma",
+      "D": "Psoriasis",
+      "E": "Bowen’s disease"
+    },
+    "correct_answer": "E",
+    "explanation": "A well-demarcated scaly plaque in an elderly patient is characteristic of Bowen’s disease (squamous cell carcinoma in situ)."
+  },
+  {
+    "id": 4,
+    "subject": "Dermatology",
+    "question": "A 41-year-old farmer has presented with a lesion on his right side. The lesion appeared 4 months ago and has progressively enlarged since then. The lesion is shown in the accompanying photograph. Which one of the following could be the most likely diagnosis?",
+    "options": {
+      "A": "Neuropathic ulcer",
+      "B": "Malignant melanoma",
+      "C": "Simple nevus",
+      "D": "Pigmentation from heat",
+      "E": "Squamous cell carcinoma"
+    },
+    "correct_answer": "B",
+    "explanation": "Irregular borders, color variation, and rapid progression are suggestive of malignant melanoma."
+  },
+  {
+    "id": 5,
+    "subject": "Dermatology",
+    "question": "A 43-year-old farmer from Queensland presents with a pigmented lesion on his upper chest, shown in the accompanying photograph. The lesion appeared 4 months ago but recently has enlarged. The lesion has been itchy and oozing and painful for the past 3 weeks. Which one of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Malignant melanoma",
+      "B": "Keratoacanthoma",
+      "C": "Basal cell carcinoma",
+      "D": "Blue nevus",
+      "E": "Benign pigmentation"
+    },
+    "correct_answer": "A",
+    "explanation": "Rapid growth, color variation, bleeding, and symptoms suggest malignant melanoma rather than benign lesions."
+  },
+  {
+    "id": 6,
+    "subject": "Dermatology",
+    "question": "On a routine health examination of a 72-year-old man, you notice lesions depicted in the following photograph on his back. Which one of the following could be the most likely diagnosis?",
+    "options": {
+      "A": "Superficial spreading melanoma",
+      "B": "Mycosis fungoides",
+      "C": "Hutchinson melanotic freckles",
+      "D": "Seborrheic keratosis",
+      "E": "Solar keratosis"
+    },
+    "correct_answer": "D",
+    "explanation": "Seborrheic keratoses are common benign lesions in the elderly, often appearing as multiple pigmented plaques with a stuck-on appearance."
+  },
+  {
+    "id": 7,
+    "subject": "Dermatology",
+    "question": "Which one of the following is the most important prognostic factor for basal cell carcinoma?",
+    "options": {
+      "A": "Depth of the lesion",
+      "B": "The color of the lesion",
+      "C": "Residual cancer cells in the margin of the excised lesion",
+      "D": "The width of the lesion",
+      "E": "The site of the lesion"
+    },
+    "correct_answer": "C",
+    "explanation": "Incomplete excision with residual tumor cells at the margins is the most important prognostic factor for recurrence of basal cell carcinoma."
+  },
+  {
+    "id": 8,
+    "subject": "Dermatology",
+    "question": "A 59-year-old farmer presents to your clinic with a lesion on his upper chest. The lesion has appeared and progressively enlarged in the past 2 months. Examination establishes a diagnosis of keratoacanthoma with high certainty. Keratoacanthoma is more likely to be confused with which one of the following?",
+    "options": {
+      "A": "Basal cell carcinoma",
+      "B": "Squamous cell carcinoma",
+      "C": "Pyogenic granuloma",
+      "D": "Seborrheic keratosis",
+      "E": "Granuloma fissuratum"
+    },
+    "correct_answer": "B",
+    "explanation": "Keratoacanthoma closely resembles squamous cell carcinoma both clinically and histologically."
+  },
+  {
+    "id": 9,
+    "subject": "Dermatology",
+    "question": "A 32-year-old female patient presents with a skin lesion on the ventral aspect of her right forearm, which has developed during the past 6 weeks. The lesion is shown in the accompanying photograph. She had a successful renal transplant last year. Which one of the following would be the most appropriate treatment?",
+    "options": {
+      "A": "No active treatment is needed, as it resolves spontaneously",
+      "B": "Surgical removal of the lesion",
+      "C": "Radiotherapy",
+      "D": "Topical podophyllin",
+      "E": "Removal with liquid nitrogen"
+    },
+    "correct_answer": "B",
+    "explanation": "In immunosuppressed patients, keratoacanthoma should be treated with complete surgical excision due to malignant potential."
+  },
+  {
+    "id": 10,
+    "subject": "Dermatology",
+    "question": "A 47-year-old man presents because of a lesion on the back of his right shoulder. The lesion is illustrated in the following photograph. Which one of the following is the most appropriate advice?",
+    "options": {
+      "A": "The lesion should be excised, as it is malignant and can extend locally, but not through lymph nodes",
+      "B": "The lesion is benign and does not need to be excised",
+      "C": "The lesion is benign, but should be excised because it can become malignant",
+      "D": "The lesion is benign, but should be excised because it can become infected",
+      "E": "The lesion is malignant and should be excised because it can metastasize through adjacent lymph nodes"
+    },
+    "correct_answer": "B",
+    "explanation": "The lesion shown is characteristic of an epidermoid (sebaceous) cyst, which is benign and does not require excision unless symptomatic."
+  },
+
+{
+  "id": 11,
+  "subject": "Dermatology",
+  "question": "A 29-year-old woman presents with a painful ulcer on her lower leg. She has a history of inflammatory bowel disease. Examination shows a rapidly enlarging ulcer with undermined violaceous borders. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Venous ulcer",
+    "B": "Pyoderma gangrenosum",
+    "C": "Necrobiosis lipoidica",
+    "D": "Squamous cell carcinoma",
+    "E": "Ecthyma gangrenosum"
+  },
+  "correct_answer": "B",
+  "explanation": "Pyoderma gangrenosum is associated with inflammatory bowel disease and presents as a painful ulcer with undermined violaceous borders."
+},
+{
+  "id": 12,
+  "subject": "Dermatology",
+  "question": "A 55-year-old woman presents with blistering skin lesions over the trunk and limbs. The blisters are tense and intact. Nikolsky sign is negative. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Pemphigus vulgaris",
+    "B": "Bullous pemphigoid",
+    "C": "Dermatitis herpetiformis",
+    "D": "Linear IgA dermatosis",
+    "E": "Epidermolysis bullosa"
+  },
+  "correct_answer": "B",
+  "explanation": "Bullous pemphigoid presents with tense blisters and a negative Nikolsky sign, typically in older patients."
+},
+{
+  "id": 13,
+  "subject": "Dermatology",
+  "question": "A 40-year-old man presents with recurrent painful oral ulcers and genital ulcers. He also complains of blurred vision. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Pemphigus vulgaris",
+    "B": "Lichen planus",
+    "C": "Behçet disease",
+    "D": "Reactive arthritis",
+    "E": "Stevens–Johnson syndrome"
+  },
+  "correct_answer": "C",
+  "explanation": "Behçet disease is characterized by recurrent oral and genital ulcers with ocular involvement."
+},
+{
+  "id": 14,
+  "subject": "Dermatology",
+  "question": "A 22-year-old man presents with multiple hypopigmented patches over his trunk. The lesions show fine scaling and are more obvious after sun exposure. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Vitiligo",
+    "B": "Pityriasis alba",
+    "C": "Tinea versicolor",
+    "D": "Pityriasis rosea",
+    "E": "Leprosy"
+  },
+  "correct_answer": "C",
+  "explanation": "Tinea versicolor causes hypopigmented scaly patches that become more apparent after sun exposure."
+},
+{
+  "id": 15,
+  "subject": "Dermatology",
+  "question": "A newborn presents with a bright red raised lesion on the face that was not present at birth but appeared within the first few weeks of life. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Capillary malformation",
+    "B": "Infantile hemangioma",
+    "C": "Venous malformation",
+    "D": "Congenital nevus",
+    "E": "Pyogenic granuloma"
+  },
+  "correct_answer": "B",
+  "explanation": "Infantile hemangiomas typically appear within weeks after birth and then proliferate before involution."
+},
+{
+  "id": 16,
+  "subject": "Dermatology",
+  "question": "A 38-year-old man presents with silvery scaly plaques on the extensor surfaces of his elbows and knees. Auspitz sign is positive. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Lichen planus",
+    "B": "Psoriasis",
+    "C": "Seborrheic dermatitis",
+    "D": "Atopic dermatitis",
+    "E": "Chronic eczema"
+  },
+  "correct_answer": "B",
+  "explanation": "Psoriasis presents with well-demarcated erythematous plaques with silvery scales and a positive Auspitz sign."
+},
+{
+  "id": 17,
+  "subject": "Dermatology",
+  "question": "A 60-year-old man presents with a non-healing ulcer on the lower lip. The lesion is painless and indurated. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Basal cell carcinoma",
+    "B": "Squamous cell carcinoma",
+    "C": "Actinic keratosis",
+    "D": "Keratoacanthoma",
+    "E": "Herpes simplex infection"
+  },
+  "correct_answer": "B",
+  "explanation": "Squamous cell carcinoma commonly presents as a non-healing, painless, indurated ulcer, especially on sun-exposed areas such as the lip."
+},
+{
+  "id": 18,
+  "subject": "Dermatology",
+  "question": "A 25-year-old woman presents with painful nodules on her shins. She recently had a sore throat. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Erythema multiforme",
+    "B": "Erythema nodosum",
+    "C": "Necrobiosis lipoidica",
+    "D": "Pyoderma gangrenosum",
+    "E": "Cellulitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Erythema nodosum presents as tender nodules on the shins and may follow streptococcal infection."
+},
+{
+  "id": 19,
+  "subject": "Dermatology",
+  "question": "A 48-year-old woman presents with tightening of the skin over her fingers and face. She also has Raynaud phenomenon. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Systemic lupus erythematosus",
+    "B": "Dermatomyositis",
+    "C": "Systemic sclerosis",
+    "D": "Mixed connective tissue disease",
+    "E": "Sjogren syndrome"
+  },
+  "correct_answer": "C",
+  "explanation": "Systemic sclerosis causes skin tightening and is commonly associated with Raynaud phenomenon."
+},
+{
+  "id": 20,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple dome-shaped papules with central umbilication on the trunk. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Verruca vulgaris",
+    "B": "Molluscum contagiosum",
+    "C": "Basal cell carcinoma",
+    "D": "Sebaceous hyperplasia",
+    "E": "Keratoacanthoma"
+  },
+  "correct_answer": "B",
+  "explanation": "Molluscum contagiosum presents with dome-shaped papules with central umbilication."
+},
+{
+  "id": 21,
+  "subject": "Dermatology",
+  "question": "A 34-year-old woman presents with itchy violaceous flat-topped papules over the flexor surface of her wrists. White lacy lines are seen on the buccal mucosa. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Psoriasis",
+    "B": "Lichen planus",
+    "C": "Discoid lupus erythematosus",
+    "D": "Chronic eczema",
+    "E": "Pemphigus vulgaris"
+  },
+  "correct_answer": "B",
+  "explanation": "Lichen planus presents with pruritic violaceous flat-topped papules and Wickham striae on mucosal surfaces."
+},
+{
+  "id": 22,
+  "subject": "Dermatology",
+  "question": "A 6-year-old child presents with honey-colored crusted lesions around the mouth and nose. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Erysipelas",
+    "B": "Impetigo",
+    "C": "Herpes simplex infection",
+    "D": "Scabies",
+    "E": "Contact dermatitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Impetigo commonly presents in children with honey-colored crusted lesions caused by Staphylococcus aureus or Streptococcus pyogenes."
+},
+{
+  "id": 23,
+  "subject": "Dermatology",
+  "question": "A 45-year-old man presents with a rapidly spreading erythematous rash and fever after starting a new medication. The skin shows widespread epidermal detachment. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Erythema multiforme",
+    "B": "Stevens–Johnson syndrome",
+    "C": "Toxic epidermal necrolysis",
+    "D": "Pemphigus vulgaris",
+    "E": "Bullous pemphigoid"
+  },
+  "correct_answer": "C",
+  "explanation": "Toxic epidermal necrolysis is characterized by widespread epidermal detachment and is commonly drug-induced."
+},
+{
+  "id": 24,
+  "subject": "Dermatology",
+  "question": "A patient presents with generalized itching that is worse at night. Examination reveals burrows in the interdigital spaces. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Pediculosis",
+    "B": "Scabies",
+    "C": "Atopic dermatitis",
+    "D": "Contact dermatitis",
+    "E": "Urticaria"
+  },
+  "correct_answer": "B",
+  "explanation": "Scabies presents with intense nocturnal pruritus and burrows, commonly affecting interdigital spaces."
+},
+{
+  "id": 25,
+  "subject": "Dermatology",
+  "question": "A 50-year-old woman presents with photosensitive rash over her face in a butterfly distribution. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Rosacea",
+    "B": "Systemic lupus erythematosus",
+    "C": "Dermatomyositis",
+    "D": "Seborrheic dermatitis",
+    "E": "Contact dermatitis"
+  },
+  "correct_answer": "B",
+  "explanation": "A malar rash in a butterfly distribution with photosensitivity is characteristic of systemic lupus erythematosus."
+},
+{
+  "id": 26,
+  "subject": "Dermatology",
+  "question": "A 27-year-old man presents with grouped vesicles on an erythematous base over the genital region. The lesions are painful. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Syphilis",
+    "B": "Chancroid",
+    "C": "Genital herpes",
+    "D": "Molluscum contagiosum",
+    "E": "Condyloma acuminata"
+  },
+  "correct_answer": "C",
+  "explanation": "Genital herpes presents with painful grouped vesicles on an erythematous base."
+},
+{
+  "id": 27,
+  "subject": "Dermatology",
+  "question": "A patient presents with wheals that appear suddenly and resolve within hours without scarring. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Angioedema",
+    "B": "Urticaria",
+    "C": "Erythema nodosum",
+    "D": "Vasculitis",
+    "E": "Contact dermatitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Urticaria presents with transient wheals that resolve within 24 hours without scarring."
+},
+{
+  "id": 28,
+  "subject": "Dermatology",
+  "question": "A 58-year-old man presents with a pearly papule with telangiectasia on the nose. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Squamous cell carcinoma",
+    "B": "Basal cell carcinoma",
+    "C": "Actinic keratosis",
+    "D": "Sebaceous hyperplasia",
+    "E": "Melanoma"
+  },
+  "correct_answer": "B",
+  "explanation": "Basal cell carcinoma commonly presents as a pearly papule with surface telangiectasia on sun-exposed areas."
+},
+{
+  "id": 29,
+  "subject": "Dermatology",
+  "question": "A 19-year-old man presents with inflammatory papules and pustules over the face and upper trunk. Which one of the following is the most appropriate first-line treatment?",
+  "options": {
+    "A": "Oral isotretinoin",
+    "B": "Topical retinoids",
+    "C": "Oral antibiotics",
+    "D": "Topical corticosteroids",
+    "E": "Oral antifungals"
+  },
+  "correct_answer": "B",
+  "explanation": "Topical retinoids are first-line treatment for mild to moderate acne."
+},
+{
+  "id": 30,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent crops of target-like lesions on the hands following herpes simplex infection. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Stevens–Johnson syndrome",
+    "B": "Toxic epidermal necrolysis",
+    "C": "Erythema multiforme",
+    "D": "Urticaria",
+    "E": "Pemphigus vulgaris"
+  },
+  "correct_answer": "C",
+  "explanation": "Erythema multiforme presents with target lesions and is commonly associated with herpes simplex infection."
+},
+{
+  "id": 31,
+  "subject": "Dermatology",
+  "question": "A 42-year-old woman presents with progressive muscle weakness and a violaceous rash over the eyelids. She also has erythematous papules over the knuckles. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Systemic lupus erythematosus",
+    "B": "Dermatomyositis",
+    "C": "Polymyositis",
+    "D": "Systemic sclerosis",
+    "E": "Mixed connective tissue disease"
+  },
+  "correct_answer": "B",
+  "explanation": "Dermatomyositis presents with proximal muscle weakness, heliotrope rash, and Gottron papules."
+},
+{
+  "id": 32,
+  "subject": "Dermatology",
+  "question": "A patient presents with intensely itchy grouped vesicles over the elbows and knees. Histology shows granular IgA deposition in the dermal papillae. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Bullous pemphigoid",
+    "B": "Pemphigus vulgaris",
+    "C": "Dermatitis herpetiformis",
+    "D": "Linear IgA dermatosis",
+    "E": "Epidermolysis bullosa"
+  },
+  "correct_answer": "C",
+  "explanation": "Dermatitis herpetiformis presents with pruritic grouped vesicles and granular IgA deposition in dermal papillae."
+},
+{
+  "id": 33,
+  "subject": "Dermatology",
+  "question": "A 30-year-old man presents with hair loss in well-defined patches on the scalp. The skin appears smooth with no scarring. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Androgenetic alopecia",
+    "B": "Alopecia areata",
+    "C": "Tinea capitis",
+    "D": "Trichotillomania",
+    "E": "Discoid lupus erythematosus"
+  },
+  "correct_answer": "B",
+  "explanation": "Alopecia areata causes non-scarring, well-demarcated patches of hair loss."
+},
+{
+  "id": 34,
+  "subject": "Dermatology",
+  "question": "A 65-year-old man presents with thickened yellow nails, lymphedema, and chronic respiratory symptoms. Which one of the following syndromes is most likely?",
+  "options": {
+    "A": "Nail-patella syndrome",
+    "B": "Yellow nail syndrome",
+    "C": "Onychomycosis",
+    "D": "Psoriatic nail disease",
+    "E": "Clubbing"
+  },
+  "correct_answer": "B",
+  "explanation": "Yellow nail syndrome is characterized by yellow thickened nails, lymphedema, and respiratory disease."
+},
+{
+  "id": 35,
+  "subject": "Dermatology",
+  "question": "A newborn presents with widespread erythema and desquamation shortly after birth. The skin peels off easily with gentle pressure. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Bullous impetigo",
+    "B": "Staphylococcal scalded skin syndrome",
+    "C": "Toxic epidermal necrolysis",
+    "D": "Epidermolysis bullosa",
+    "E": "Congenital ichthyosis"
+  },
+  "correct_answer": "B",
+  "explanation": "Staphylococcal scalded skin syndrome causes widespread erythema and superficial desquamation in neonates."
+},
+{
+  "id": 36,
+  "subject": "Dermatology",
+  "question": "A patient presents with chronic pruritic lichenified plaques over the nape of the neck and ankles. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Psoriasis",
+    "B": "Lichen simplex chronicus",
+    "C": "Atopic dermatitis",
+    "D": "Lichen planus",
+    "E": "Prurigo nodularis"
+  },
+  "correct_answer": "B",
+  "explanation": "Lichen simplex chronicus results from chronic scratching leading to lichenified plaques."
+},
+{
+  "id": 37,
+  "subject": "Dermatology",
+  "question": "A 24-year-old man presents with painful nodules in the axillae with recurrent discharge and scarring. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Furunculosis",
+    "B": "Hidradenitis suppurativa",
+    "C": "Carbuncle",
+    "D": "Acne conglobata",
+    "E": "Erysipelas"
+  },
+  "correct_answer": "B",
+  "explanation": "Hidradenitis suppurativa presents with recurrent painful nodules, abscesses, and scarring in intertriginous areas."
+},
+{
+  "id": 38,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful erythematous nodules on the calves associated with weight loss and cough. Chest imaging shows bilateral hilar lymphadenopathy. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Erythema nodosum",
+    "B": "Polyarteritis nodosa",
+    "C": "Sarcoidosis",
+    "D": "Tuberculosis",
+    "E": "Behçet disease"
+  },
+  "correct_answer": "C",
+  "explanation": "Sarcoidosis can present with erythema nodosum and bilateral hilar lymphadenopathy."
+},
+{
+  "id": 39,
+  "subject": "Dermatology",
+  "question": "A patient presents with a single painless genital ulcer with indurated edges and clean base. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Genital herpes",
+    "B": "Chancroid",
+    "C": "Primary syphilis",
+    "D": "Lymphogranuloma venereum",
+    "E": "Granuloma inguinale"
+  },
+  "correct_answer": "C",
+  "explanation": "Primary syphilis presents with a painless indurated chancre."
+},
+{
+  "id": 40,
+  "subject": "Dermatology",
+  "question": "A patient presents with thickened, discolored nails with subungual debris. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Psoriatic nail disease",
+    "B": "Onychomycosis",
+    "C": "Traumatic nail dystrophy",
+    "D": "Yellow nail syndrome",
+    "E": "Subungual melanoma"
+  },
+  "correct_answer": "B",
+  "explanation": "Onychomycosis causes thickened, discolored nails with subungual debris."
+},
+{
+  "id": 41,
+  "subject": "Dermatology",
+  "question": "A 36-year-old woman presents with recurrent episodes of facial flushing, erythema, and papules over the central face. Alcohol intake worsens the symptoms. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Acne vulgaris",
+    "B": "Seborrheic dermatitis",
+    "C": "Rosacea",
+    "D": "Systemic lupus erythematosus",
+    "E": "Contact dermatitis"
+  },
+  "correct_answer": "C",
+  "explanation": "Rosacea presents with facial flushing, erythema, papules, and pustules, often triggered by alcohol and heat."
+},
+{
+  "id": 42,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple café-au-lait macules and axillary freckling. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Tuberous sclerosis",
+    "B": "Neurofibromatosis type 1",
+    "C": "McCune–Albright syndrome",
+    "D": "Peutz–Jeghers syndrome",
+    "E": "Addison disease"
+  },
+  "correct_answer": "B",
+  "explanation": "Café-au-lait macules with axillary freckling are characteristic of neurofibromatosis type 1."
+},
+{
+  "id": 43,
+  "subject": "Dermatology",
+  "question": "A 5-year-old child presents with annular scaly patches on the scalp associated with hair loss. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Alopecia areata",
+    "B": "Tinea capitis",
+    "C": "Trichotillomania",
+    "D": "Seborrheic dermatitis",
+    "E": "Psoriasis"
+  },
+  "correct_answer": "B",
+  "explanation": "Tinea capitis presents with scaly patches and hair loss, commonly in children."
+},
+{
+  "id": 44,
+  "subject": "Dermatology",
+  "question": "A patient presents with violaceous discoloration of the eyelids and poikiloderma over the upper chest. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Systemic lupus erythematosus",
+    "B": "Dermatomyositis",
+    "C": "Systemic sclerosis",
+    "D": "Lichen planus",
+    "E": "Polymyositis"
+  },
+  "correct_answer": "B",
+  "explanation": "Heliotrope rash and poikiloderma are characteristic of dermatomyositis."
+},
+{
+  "id": 45,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent painful oral aphthous ulcers without systemic features. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Behçet disease",
+    "B": "Pemphigus vulgaris",
+    "C": "Recurrent aphthous stomatitis",
+    "D": "Herpes simplex infection",
+    "E": "Stevens–Johnson syndrome"
+  },
+  "correct_answer": "C",
+  "explanation": "Recurrent aphthous stomatitis presents with painful oral ulcers without systemic involvement."
+},
+{
+  "id": 46,
+  "subject": "Dermatology",
+  "question": "A 70-year-old man presents with a slowly enlarging ulcerated lesion on the lower eyelid. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Squamous cell carcinoma",
+    "B": "Basal cell carcinoma",
+    "C": "Actinic keratosis",
+    "D": "Keratoacanthoma",
+    "E": "Seborrheic keratosis"
+  },
+  "correct_answer": "B",
+  "explanation": "Basal cell carcinoma commonly affects the lower eyelid and presents as a slowly enlarging ulcerated lesion."
+},
+{
+  "id": 47,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple firm nodules on the extensor surfaces associated with rheumatoid arthritis. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Tophaceous gout",
+    "B": "Rheumatoid nodules",
+    "C": "Erythema nodosum",
+    "D": "Xanthomas",
+    "E": "Calcinosis cutis"
+  },
+  "correct_answer": "B",
+  "explanation": "Rheumatoid nodules occur on extensor surfaces in patients with rheumatoid arthritis."
+},
+{
+  "id": 48,
+  "subject": "Dermatology",
+  "question": "A patient presents with well-demarcated depigmented patches over the hands and face. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Pityriasis versicolor",
+    "B": "Vitiligo",
+    "C": "Pityriasis alba",
+    "D": "Post-inflammatory hypopigmentation",
+    "E": "Leprosy"
+  },
+  "correct_answer": "B",
+  "explanation": "Vitiligo presents with well-defined depigmented macules and patches."
+},
+{
+  "id": 49,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent episodes of painful erythema and swelling of the skin associated with fever. The borders are raised and well demarcated. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Cellulitis",
+    "B": "Erysipelas",
+    "C": "Necrotizing fasciitis",
+    "D": "Impetigo",
+    "E": "Urticaria"
+  },
+  "correct_answer": "B",
+  "explanation": "Erysipelas presents with raised, well-demarcated erythematous lesions and systemic symptoms."
+},
+{
+  "id": 50,
+  "subject": "Dermatology",
+  "question": "A patient presents with violaceous papules on the penis. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Lichen planus",
+    "B": "Condyloma acuminata",
+    "C": "Psoriasis",
+    "D": "Bowen disease",
+    "E": "Zoon balanitis"
+  },
+  "correct_answer": "A",
+  "explanation": "Lichen planus can present with violaceous papules on genital skin."
+},
+{
+  "id": 51,
+  "subject": "Dermatology",
+  "question": "A 28-year-old woman presents with painful oral erosions followed by flaccid blisters on the trunk. Nikolsky sign is positive. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Bullous pemphigoid",
+    "B": "Pemphigus vulgaris",
+    "C": "Dermatitis herpetiformis",
+    "D": "Stevens–Johnson syndrome",
+    "E": "Linear IgA dermatosis"
+  },
+  "correct_answer": "B",
+  "explanation": "Pemphigus vulgaris presents with flaccid blisters, mucosal involvement, and a positive Nikolsky sign."
+},
+{
+  "id": 52,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple soft, skin-colored pedunculated lesions on the neck and axillae. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Neurofibromas",
+    "B": "Skin tags",
+    "C": "Seborrheic keratoses",
+    "D": "Warts",
+    "E": "Xanthomas"
+  },
+  "correct_answer": "B",
+  "explanation": "Skin tags (acrochordons) are soft, pedunculated lesions commonly found on the neck and axillae."
+},
+{
+  "id": 53,
+  "subject": "Dermatology",
+  "question": "A 40-year-old man presents with painful erythema and swelling of the ear sparing the ear lobe. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Otitis externa",
+    "B": "Perichondritis",
+    "C": "Relapsing polychondritis",
+    "D": "Cellulitis",
+    "E": "Erysipelas"
+  },
+  "correct_answer": "B",
+  "explanation": "Perichondritis affects the cartilaginous part of the ear and typically spares the lobule."
+},
+{
+  "id": 54,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple yellowish plaques over the eyelids. Which one of the following conditions is most commonly associated with this finding?",
+  "options": {
+    "A": "Diabetes mellitus",
+    "B": "Hyperlipidemia",
+    "C": "Hypothyroidism",
+    "D": "Chronic liver disease",
+    "E": "Renal failure"
+  },
+  "correct_answer": "B",
+  "explanation": "Xanthelasma is commonly associated with hyperlipidemia."
+},
+{
+  "id": 55,
+  "subject": "Dermatology",
+  "question": "A 6-month-old infant presents with erythematous greasy scales over the scalp. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Atopic dermatitis",
+    "B": "Seborrheic dermatitis",
+    "C": "Psoriasis",
+    "D": "Tinea capitis",
+    "E": "Impetigo"
+  },
+  "correct_answer": "B",
+  "explanation": "Seborrheic dermatitis in infants presents as cradle cap with greasy scales over the scalp."
+},
+{
+  "id": 56,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent painful ulcers in the mouth and eyes along with genital ulcers. Pathergy test is positive. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Systemic lupus erythematosus",
+    "B": "Reactive arthritis",
+    "C": "Behçet disease",
+    "D": "Pemphigus vulgaris",
+    "E": "Stevens–Johnson syndrome"
+  },
+  "correct_answer": "C",
+  "explanation": "Behçet disease is characterized by oral ulcers, genital ulcers, ocular involvement, and a positive pathergy test."
+},
+{
+  "id": 57,
+  "subject": "Dermatology",
+  "question": "A patient presents with a rapidly enlarging dome-shaped lesion with a central keratin plug on sun-exposed skin. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Basal cell carcinoma",
+    "B": "Squamous cell carcinoma",
+    "C": "Keratoacanthoma",
+    "D": "Seborrheic keratosis",
+    "E": "Actinic keratosis"
+  },
+  "correct_answer": "C",
+  "explanation": "Keratoacanthoma presents as a rapidly growing lesion with a central keratin plug."
+},
+{
+  "id": 58,
+  "subject": "Dermatology",
+  "question": "A patient presents with photosensitive rash, oral ulcers, arthritis, and renal involvement. Which one of the following autoantibodies is most specific for this condition?",
+  "options": {
+    "A": "Anti-dsDNA",
+    "B": "Anti-histone",
+    "C": "Anti-centromere",
+    "D": "Anti-Jo-1",
+    "E": "Anti-mitochondrial"
+  },
+  "correct_answer": "A",
+  "explanation": "Anti-dsDNA antibodies are specific for systemic lupus erythematosus and correlate with renal disease."
+},
+{
+  "id": 59,
+  "subject": "Dermatology",
+  "question": "A patient presents with hypopigmented anesthetic patches and thickened peripheral nerves. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Vitiligo",
+    "B": "Leprosy",
+    "C": "Tinea versicolor",
+    "D": "Pityriasis alba",
+    "E": "Sarcoidosis"
+  },
+  "correct_answer": "B",
+  "explanation": "Leprosy presents with hypopigmented anesthetic patches and peripheral nerve thickening."
+},
+{
+  "id": 60,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent episodes of angioedema without urticaria. Which one of the following is the most likely underlying cause?",
+  "options": {
+    "A": "Histamine release",
+    "B": "IgE-mediated allergy",
+    "C": "C1 esterase inhibitor deficiency",
+    "D": "Drug reaction",
+    "E": "Autoimmune disease"
+  },
+  "correct_answer": "C",
+  "explanation": "Hereditary angioedema is caused by C1 esterase inhibitor deficiency and typically occurs without urticaria."
+},{
+  "id": 61,
+  "subject": "Dermatology",
+  "question": "A 33-year-old woman presents with hyperpigmented velvety plaques over the neck and axillae. She is obese and has irregular menstrual cycles. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Addison disease",
+    "B": "Acanthosis nigricans",
+    "C": "Hemochromatosis",
+    "D": "Melasma",
+    "E": "Lichen simplex chronicus"
+  },
+  "correct_answer": "B",
+  "explanation": "Acanthosis nigricans presents as velvety hyperpigmented plaques and is commonly associated with insulin resistance."
+},
+{
+  "id": 62,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful erythematous plaques with central necrosis following trauma. The lesions show pathergy. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Pyoderma gangrenosum",
+    "B": "Necrotizing fasciitis",
+    "C": "Erythema nodosum",
+    "D": "Vasculitis",
+    "E": "Cellulitis"
+  },
+  "correct_answer": "A",
+  "explanation": "Pyoderma gangrenosum exhibits pathergy and painful ulcers often triggered by trauma."
+},
+{
+  "id": 63,
+  "subject": "Dermatology",
+  "question": "A 21-year-old man presents with itchy erythematous plaques with silvery scales on the scalp margin and behind the ears. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Seborrheic dermatitis",
+    "B": "Psoriasis",
+    "C": "Tinea capitis",
+    "D": "Contact dermatitis",
+    "E": "Atopic dermatitis"
+  },
+  "correct_answer": "A",
+  "explanation": "Seborrheic dermatitis commonly affects the scalp margin and postauricular areas with greasy scales."
+},
+{
+  "id": 64,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple erythematous target lesions on the palms following a respiratory infection. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Erythema multiforme",
+    "B": "Stevens–Johnson syndrome",
+    "C": "Urticaria",
+    "D": "Hand-foot-mouth disease",
+    "E": "Secondary syphilis"
+  },
+  "correct_answer": "A",
+  "explanation": "Erythema multiforme presents with target lesions often following infections such as Mycoplasma."
+},
+{
+  "id": 65,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful nodules along lymphatic channels following a thorn prick injury. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Erysipelas",
+    "B": "Sporotrichosis",
+    "C": "Cutaneous tuberculosis",
+    "D": "Nocardiosis",
+    "E": "Leishmaniasis"
+  },
+  "correct_answer": "B",
+  "explanation": "Sporotrichosis spreads along lymphatic channels following traumatic inoculation."
+},
+{
+  "id": 66,
+  "subject": "Dermatology",
+  "question": "A 70-year-old man presents with a rapidly spreading erythematous rash, fever, and hypotension. The skin is tender and desquamating. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Toxic shock syndrome",
+    "B": "Stevens–Johnson syndrome",
+    "C": "Erysipelas",
+    "D": "Pemphigus vulgaris",
+    "E": "Bullous pemphigoid"
+  },
+  "correct_answer": "A",
+  "explanation": "Toxic shock syndrome presents with fever, hypotension, and diffuse erythematous rash with desquamation."
+},
+{
+  "id": 67,
+  "subject": "Dermatology",
+  "question": "A patient presents with annular plaques with raised erythematous borders and central clearing on the trunk. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Granuloma annulare",
+    "B": "Tinea corporis",
+    "C": "Pityriasis rosea",
+    "D": "Nummular eczema",
+    "E": "Subacute cutaneous lupus"
+  },
+  "correct_answer": "B",
+  "explanation": "Tinea corporis presents with annular plaques with raised borders and central clearing."
+},
+{
+  "id": 68,
+  "subject": "Dermatology",
+  "question": "A patient presents with violaceous discoloration of the skin over the eyelids. Which one of the following is this sign called?",
+  "options": {
+    "A": "Gottron sign",
+    "B": "Heliotrope rash",
+    "C": "Shawl sign",
+    "D": "Butterfly rash",
+    "E": "Mechanic hands"
+  },
+  "correct_answer": "B",
+  "explanation": "Heliotrope rash is a violaceous discoloration of the eyelids seen in dermatomyositis."
+},
+{
+  "id": 69,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful necrotic ulcers and livedo reticularis. Which one of the following conditions is most likely?",
+  "options": {
+    "A": "Polyarteritis nodosa",
+    "B": "Systemic lupus erythematosus",
+    "C": "Cryoglobulinemia",
+    "D": "Antiphospholipid syndrome",
+    "E": "Erythema nodosum"
+  },
+  "correct_answer": "A",
+  "explanation": "Polyarteritis nodosa presents with painful ulcers, nodules, and livedo reticularis due to medium-vessel vasculitis."
+},
+{
+  "id": 70,
+  "subject": "Dermatology",
+  "question": "A patient presents with diffuse scaling and redness involving more than 90% of the body surface area. Which one of the following is the most appropriate term for this condition?",
+  "options": {
+    "A": "Psoriasis",
+    "B": "Ichthyosis",
+    "C": "Erythroderma",
+    "D": "Exfoliative dermatitis",
+    "E": "Seborrheic dermatitis"
+  },
+  "correct_answer": "C",
+  "explanation": "Erythroderma refers to generalized redness and scaling involving more than 90% of body surface area."
+},
+{
+  "id": 71,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent crops of painful nodules that ulcerate and heal with scarring. The lesions are located on the lower legs. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Erythema nodosum",
+    "B": "Pyoderma gangrenosum",
+    "C": "Cutaneous polyarteritis nodosa",
+    "D": "Necrobiosis lipoidica",
+    "E": "Venous ulcer"
+  },
+  "correct_answer": "C",
+  "explanation": "Cutaneous polyarteritis nodosa presents with recurrent painful nodules that may ulcerate and heal with scarring."
+},
+{
+  "id": 72,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple small pearly papules with central umbilication on the face. Which one of the following is the most appropriate treatment?",
+  "options": {
+    "A": "Topical corticosteroids",
+    "B": "Oral antivirals",
+    "C": "Cryotherapy",
+    "D": "Oral antibiotics",
+    "E": "Topical antifungals"
+  },
+  "correct_answer": "C",
+  "explanation": "Molluscum contagiosum lesions can be treated with cryotherapy or curettage."
+},
+{
+  "id": 73,
+  "subject": "Dermatology",
+  "question": "A 45-year-old woman presents with hyperpigmented patches over the cheeks and forehead that worsen with sun exposure. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Vitiligo",
+    "B": "Melasma",
+    "C": "Post-inflammatory hyperpigmentation",
+    "D": "Addison disease",
+    "E": "Acanthosis nigricans"
+  },
+  "correct_answer": "B",
+  "explanation": "Melasma presents as hyperpigmented patches on sun-exposed areas of the face, especially in women."
+},
+{
+  "id": 74,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent painful genital ulcers and inguinal lymphadenopathy. The ulcers are soft and bleed easily. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Primary syphilis",
+    "B": "Genital herpes",
+    "C": "Chancroid",
+    "D": "Lymphogranuloma venereum",
+    "E": "Granuloma inguinale"
+  },
+  "correct_answer": "C",
+  "explanation": "Chancroid presents with painful soft genital ulcers and tender inguinal lymphadenopathy."
+},
+{
+  "id": 75,
+  "subject": "Dermatology",
+  "question": "A patient presents with annular erythematous plaques following a viral infection. The lesions have trailing scale. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Tinea corporis",
+    "B": "Pityriasis rosea",
+    "C": "Erythema multiforme",
+    "D": "Granuloma annulare",
+    "E": "Nummular eczema"
+  },
+  "correct_answer": "B",
+  "explanation": "Pityriasis rosea presents with annular plaques and trailing scale, often following a viral infection."
+},
+{
+  "id": 76,
+  "subject": "Dermatology",
+  "question": "A patient presents with severe photosensitivity, blistering of sun-exposed skin, and hypertrichosis. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Systemic lupus erythematosus",
+    "B": "Porphyria cutanea tarda",
+    "C": "Dermatomyositis",
+    "D": "Bullous pemphigoid",
+    "E": "Polymorphic light eruption"
+  },
+  "correct_answer": "B",
+  "explanation": "Porphyria cutanea tarda causes photosensitivity, blistering, and hypertrichosis."
+},
+{
+  "id": 77,
+  "subject": "Dermatology",
+  "question": "A patient presents with diffuse hair shedding following childbirth. Examination shows no scarring or inflammation. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Alopecia areata",
+    "B": "Telogen effluvium",
+    "C": "Androgenetic alopecia",
+    "D": "Tinea capitis",
+    "E": "Trichotillomania"
+  },
+  "correct_answer": "B",
+  "explanation": "Telogen effluvium causes diffuse hair shedding following physiological stress such as childbirth."
+},
+{
+  "id": 78,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful oral erosions and conjunctivitis after starting a new medication. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Pemphigus vulgaris",
+    "B": "Stevens–Johnson syndrome",
+    "C": "Bullous pemphigoid",
+    "D": "Erythema multiforme",
+    "E": "Toxic shock syndrome"
+  },
+  "correct_answer": "B",
+  "explanation": "Stevens–Johnson syndrome is a severe drug reaction involving mucocutaneous erosions."
+},
+{
+  "id": 79,
+  "subject": "Dermatology",
+  "question": "A patient presents with waxy papules and plaques on the skin along with macroglossia. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Sarcoidosis",
+    "B": "Amyloidosis",
+    "C": "Xanthomas",
+    "D": "Scleroderma",
+    "E": "Myxedema"
+  },
+  "correct_answer": "B",
+  "explanation": "Cutaneous amyloidosis can present with waxy papules and macroglossia."
+},
+{
+  "id": 80,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful swelling and erythema of the nail folds with pus discharge. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Onychomycosis",
+    "B": "Paronychia",
+    "C": "Felon",
+    "D": "Herpetic whitlow",
+    "E": "Psoriatic nail disease"
+  },
+  "correct_answer": "B",
+  "explanation": "Paronychia presents with painful inflammation of the nail folds."
+},
+{
+  "id": 81,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple dome-shaped yellow papules on the face with central depression. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Basal cell carcinoma",
+    "B": "Sebaceous hyperplasia",
+    "C": "Molluscum contagiosum",
+    "D": "Xanthomas",
+    "E": "Syringomas"
+  },
+  "correct_answer": "B",
+  "explanation": "Sebaceous hyperplasia presents with yellow papules with central umbilication."
+},
+{
+  "id": 82,
+  "subject": "Dermatology",
+  "question": "A patient presents with violaceous plaques over the cheeks and nose sparing the nasolabial folds. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Rosacea",
+    "B": "Seborrheic dermatitis",
+    "C": "Systemic lupus erythematosus",
+    "D": "Dermatomyositis",
+    "E": "Contact dermatitis"
+  },
+  "correct_answer": "C",
+  "explanation": "Malar rash sparing the nasolabial folds is characteristic of systemic lupus erythematosus."
+},
+{
+  "id": 83,
+  "subject": "Dermatology",
+  "question": "A patient presents with painless ulcerative lesions in the groin with beefy red appearance. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Chancroid",
+    "B": "Granuloma inguinale",
+    "C": "Primary syphilis",
+    "D": "Lymphogranuloma venereum",
+    "E": "Genital herpes"
+  },
+  "correct_answer": "B",
+  "explanation": "Granuloma inguinale presents with painless beefy red genital ulcers."
+},
+{
+  "id": 84,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful erythematous nodules on the face that worsen with sun exposure. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Rosacea",
+    "B": "Acne vulgaris",
+    "C": "Seborrheic dermatitis",
+    "D": "Systemic lupus erythematosus",
+    "E": "Perioral dermatitis"
+  },
+  "correct_answer": "A",
+  "explanation": "Rosacea presents with facial erythema and papules that worsen with sun exposure."
+},
+{
+  "id": 85,
+  "subject": "Dermatology",
+  "question": "A patient presents with thickened skin over the palms and soles with fissuring. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Psoriasis",
+    "B": "Palmoplantar keratoderma",
+    "C": "Tinea pedis",
+    "D": "Eczema",
+    "E": "Lichen planus"
+  },
+  "correct_answer": "B",
+  "explanation": "Palmoplantar keratoderma presents with thickened skin and fissuring of palms and soles."
+},
+{
+  "id": 86,
+  "subject": "Dermatology",
+  "question": "A patient presents with a rapidly progressive painful skin infection with dusky discoloration, bullae, and systemic toxicity. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Cellulitis",
+    "B": "Erysipelas",
+    "C": "Necrotizing fasciitis",
+    "D": "Pyoderma gangrenosum",
+    "E": "Gas gangrene"
+  },
+  "correct_answer": "C",
+  "explanation": "Necrotizing fasciitis presents with severe pain, rapid progression, bullae formation, and systemic toxicity."
+},
+{
+  "id": 87,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent crops of itchy wheals lasting less than 24 hours with no residual pigmentation. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Urticaria",
+    "B": "Angioedema",
+    "C": "Erythema multiforme",
+    "D": "Vasculitis",
+    "E": "Contact dermatitis"
+  },
+  "correct_answer": "A",
+  "explanation": "Urticaria presents with transient wheals that resolve within 24 hours without residual changes."
+},
+{
+  "id": 88,
+  "subject": "Dermatology",
+  "question": "A patient presents with erythematous scaly plaques on the scalp and nasolabial folds. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Psoriasis",
+    "B": "Seborrheic dermatitis",
+    "C": "Atopic dermatitis",
+    "D": "Tinea capitis",
+    "E": "Contact dermatitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Seborrheic dermatitis commonly affects the scalp and nasolabial folds."
+},
+{
+  "id": 89,
+  "subject": "Dermatology",
+  "question": "A patient presents with tender nodules on the lower legs associated with sarcoidosis. Which one of the following skin conditions is this?",
+  "options": {
+    "A": "Pyoderma gangrenosum",
+    "B": "Erythema nodosum",
+    "C": "Necrobiosis lipoidica",
+    "D": "Cutaneous vasculitis",
+    "E": "Erysipelas"
+  },
+  "correct_answer": "B",
+  "explanation": "Erythema nodosum is associated with sarcoidosis and presents as tender nodules on the shins."
+},
+{
+  "id": 90,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent oral candidiasis and nail dystrophy. Which one of the following underlying conditions is most likely?",
+  "options": {
+    "A": "Diabetes mellitus",
+    "B": "HIV infection",
+    "C": "Chronic mucocutaneous candidiasis",
+    "D": "Hypothyroidism",
+    "E": "Cushing syndrome"
+  },
+  "correct_answer": "C",
+  "explanation": "Chronic mucocutaneous candidiasis presents with persistent Candida infections of skin, nails, and mucosa."
+},
+{
+  "id": 91,
+  "subject": "Dermatology",
+  "question": "A patient presents with scarring alopecia, photosensitivity, and erythematous plaques over sun-exposed areas. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Alopecia areata",
+    "B": "Discoid lupus erythematosus",
+    "C": "Lichen planopilaris",
+    "D": "Psoriasis",
+    "E": "Seborrheic dermatitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Discoid lupus erythematosus causes scarring alopecia and photosensitive plaques."
+},
+{
+  "id": 92,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple painful nodules along peripheral nerves. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Leprosy",
+    "B": "Neurofibromatosis",
+    "C": "Sarcoidosis",
+    "D": "Cutaneous tuberculosis",
+    "E": "Amyloidosis"
+  },
+  "correct_answer": "A",
+  "explanation": "Leprosy involves peripheral nerves causing nodules and sensory loss."
+},
+{
+  "id": 93,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent painful erythematous plaques triggered by cold exposure. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Cold urticaria",
+    "B": "Perniosis (chilblains)",
+    "C": "Raynaud phenomenon",
+    "D": "Cryoglobulinemia",
+    "E": "Erythema multiforme"
+  },
+  "correct_answer": "B",
+  "explanation": "Perniosis presents with painful erythematous plaques following cold exposure."
+},
+{
+  "id": 94,
+  "subject": "Dermatology",
+  "question": "A patient presents with hyperkeratotic papules on the palms and soles associated with foul odor. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Palmoplantar psoriasis",
+    "B": "Pitted keratolysis",
+    "C": "Tinea pedis",
+    "D": "Contact dermatitis",
+    "E": "Dyshidrotic eczema"
+  },
+  "correct_answer": "B",
+  "explanation": "Pitted keratolysis presents with malodorous hyperkeratotic lesions on the soles."
+},
+{
+  "id": 95,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful grouped vesicles on an erythematous base around the mouth. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Impetigo",
+    "B": "Herpes simplex infection",
+    "C": "Varicella",
+    "D": "Contact dermatitis",
+    "E": "Pemphigus vulgaris"
+  },
+  "correct_answer": "B",
+  "explanation": "Herpes simplex infection presents with painful grouped vesicles on an erythematous base."
+},
+{
+  "id": 96,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple hypopigmented patches with loss of sensation. Slit-skin smear is positive. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Vitiligo",
+    "B": "Leprosy",
+    "C": "Tinea versicolor",
+    "D": "Pityriasis alba",
+    "E": "Sarcoidosis"
+  },
+  "correct_answer": "B",
+  "explanation": "Leprosy presents with anesthetic hypopigmented patches and positive slit-skin smear."
+},
+{
+  "id": 97,
+  "subject": "Dermatology",
+  "question": "A patient presents with diffuse hyperpigmentation, fatigue, and weight loss. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Hemochromatosis",
+    "B": "Addison disease",
+    "C": "Melasma",
+    "D": "Acanthosis nigricans",
+    "E": "Cushing syndrome"
+  },
+  "correct_answer": "B",
+  "explanation": "Addison disease causes diffuse hyperpigmentation due to increased ACTH."
+},
+{
+  "id": 98,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful ulcers on the legs and livedo reticularis. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Polyarteritis nodosa",
+    "B": "Systemic lupus erythematosus",
+    "C": "Cryoglobulinemia",
+    "D": "Erythema nodosum",
+    "E": "Venous insufficiency"
+  },
+  "correct_answer": "A",
+  "explanation": "Polyarteritis nodosa presents with painful ulcers and livedo reticularis."
+},
+{
+  "id": 99,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent painful fissures at the angles of the mouth. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Herpes labialis",
+    "B": "Angular cheilitis",
+    "C": "Actinic cheilitis",
+    "D": "Contact dermatitis",
+    "E": "Aphthous ulcers"
+  },
+  "correct_answer": "B",
+  "explanation": "Angular cheilitis presents with painful fissures at the corners of the mouth."
+},
+{
+  "id": 100,
+  "subject": "Dermatology",
+  "question": "A patient presents with erythematous plaques covered with greasy scales over the scalp and face. Which one of the following organisms is most commonly associated with this condition?",
+  "options": {
+    "A": "Candida albicans",
+    "B": "Malassezia species",
+    "C": "Staphylococcus aureus",
+    "D": "Streptococcus pyogenes",
+    "E": "Propionibacterium acnes"
+  },
+  "correct_answer": "B",
+  "explanation": "Seborrheic dermatitis is associated with Malassezia species."
+},
+{
+  "id": 101,
+  "subject": "Dermatology",
+  "question": "A patient presents with progressive tightening of the skin over the fingers with digital ulcers and Raynaud phenomenon. Which one of the following antibodies is most commonly associated with this condition?",
+  "options": {
+    "A": "Anti-dsDNA",
+    "B": "Anti-centromere",
+    "C": "Anti-histone",
+    "D": "Anti-Jo-1",
+    "E": "Anti-mitochondrial"
+  },
+  "correct_answer": "B",
+  "explanation": "Anti-centromere antibodies are commonly associated with limited cutaneous systemic sclerosis."
+},
+{
+  "id": 102,
+  "subject": "Dermatology",
+  "question": "A patient presents with intensely pruritic papules and burrows over the wrists, finger webs, and genital region. Which one of the following is the most appropriate first-line treatment?",
+  "options": {
+    "A": "Topical corticosteroids",
+    "B": "Oral ivermectin",
+    "C": "Topical permethrin",
+    "D": "Topical antifungals",
+    "E": "Oral antihistamines"
+  },
+  "correct_answer": "C",
+  "explanation": "Topical permethrin is the first-line treatment for scabies."
+},
+{
+  "id": 103,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple erythematous plaques with silvery scales involving more than 10% of body surface area. Which one of the following systemic treatments is most appropriate?",
+  "options": {
+    "A": "Topical calcipotriol",
+    "B": "Topical corticosteroids",
+    "C": "Methotrexate",
+    "D": "Oral antihistamines",
+    "E": "Topical antifungals"
+  },
+  "correct_answer": "C",
+  "explanation": "Moderate to severe psoriasis often requires systemic therapy such as methotrexate."
+},
+{
+  "id": 104,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful erythematous nodules and plaques following streptococcal infection. Which one of the following investigations is most useful for confirmation?",
+  "options": {
+    "A": "ASO titer",
+    "B": "Skin biopsy",
+    "C": "Blood culture",
+    "D": "Chest X-ray",
+    "E": "Slit-skin smear"
+  },
+  "correct_answer": "A",
+  "explanation": "Erythema nodosum following streptococcal infection is supported by elevated ASO titers."
+},
+{
+  "id": 105,
+  "subject": "Dermatology",
+  "question": "A patient presents with bluish-black pigmentation of the nail with extension to the nail fold (Hutchinson sign). Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Subungual hematoma",
+    "B": "Onychomycosis",
+    "C": "Subungual melanoma",
+    "D": "Psoriatic nail disease",
+    "E": "Traumatic nail dystrophy"
+  },
+  "correct_answer": "C",
+  "explanation": "Hutchinson sign is characteristic of subungual melanoma."
+},
+{
+  "id": 106,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful erythematous swelling of the face with fever. The lesion has raised sharply demarcated borders. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Cellulitis",
+    "B": "Erysipelas",
+    "C": "Necrotizing fasciitis",
+    "D": "Impetigo",
+    "E": "Contact dermatitis"
+  },
+  "correct_answer": "B",
+  "explanation": "Erysipelas presents with fever and sharply demarcated erythematous swelling of the skin."
+},
+{
+  "id": 107,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple firm subcutaneous nodules that extrude chalky material. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Tophaceous gout",
+    "B": "Rheumatoid nodules",
+    "C": "Calcinosis cutis",
+    "D": "Xanthomas",
+    "E": "Amyloidosis"
+  },
+  "correct_answer": "C",
+  "explanation": "Calcinosis cutis presents with firm nodules containing calcium deposits."
+},
+{
+  "id": 108,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent blistering of the skin since childhood, precipitated by minor trauma. Which one of the following is the most likely diagnosis?",
+  "options": {
+    "A": "Bullous pemphigoid",
+    "B": "Pemphigus vulgaris",
+    "C": "Epidermolysis bullosa",
+    "D": "Dermatitis herpetiformis",
+    "E": "Stevens–Johnson syndrome"
+  },
+  "correct_answer": "C",
+  "explanation": "Epidermolysis bullosa is a genetic disorder causing blistering after minor trauma."
+},
+{
+  "id": 109,
+  "subject": "Dermatology",
+  "question": "A patient presents with diffuse erythema and scaling involving almost the entire body. Which one of the following underlying conditions should always be excluded?",
+  "options": {
+    "A": "Psoriasis",
+    "B": "Drug reaction",
+    "C": "Cutaneous T-cell lymphoma",
+    "D": "Atopic dermatitis",
+    "E": "Seborrheic dermatitis"
+  },
+  "correct_answer": "C",
+  "explanation": "Erythroderma requires exclusion of cutaneous T-cell lymphoma such as Sézary syndrome."
+},
+{
+  "id": 110,
+  "subject": "Dermatology",
+  "question": "A patient presents with grouped vesicles in a dermatomal distribution associated with severe pain. Which one of the following is the most appropriate early treatment?",
+  "options": {
+    "A": "Topical corticosteroids",
+    "B": "Oral acyclovir",
+    "C": "Oral antibiotics",
+    "D": "Topical antifungals",
+    "E": "Analgesics alone"
+  },
+  "correct_answer": "B",
+  "explanation": "Early antiviral therapy reduces severity and complications of herpes zoster."
+},
+{
+  "id": 111,
+  "subject": "Dermatology",
+  "question": "A patient presents with a slowly enlarging pigmented lesion with irregular borders and color variation. Which one of the following is the most important prognostic factor?",
+  "options": {
+    "A": "Clark level",
+    "B": "Breslow thickness",
+    "C": "Presence of ulceration",
+    "D": "Mitotic rate",
+    "E": "Anatomical site"
+  },
+  "correct_answer": "B",
+  "explanation": "Breslow thickness is the most important prognostic factor in melanoma."
+},
+{
+  "id": 112,
+  "subject": "Dermatology",
+  "question": "A patient presents with multiple flat-topped violaceous papules over the shins. Which one of the following additional findings is most likely?",
+  "options": {
+    "A": "Koebner phenomenon",
+    "B": "Nikolsky sign",
+    "C": "Auspitz sign",
+    "D": "Positive pathergy",
+    "E": "Target lesions"
+  },
+  "correct_answer": "A",
+  "explanation": "Lichen planus commonly shows the Koebner phenomenon."
+},
+{
+  "id": 113,
+  "subject": "Dermatology",
+  "question": "A patient presents with recurrent pustular eruptions on the palms and soles. Which one of the following conditions is most likely associated?",
+  "options": {
+    "A": "Psoriasis",
+    "B": "Eczema",
+    "C": "Tinea infection",
+    "D": "Secondary syphilis",
+    "E": "Contact dermatitis"
+  },
+  "correct_answer": "A",
+  "explanation": "Palmoplantar pustulosis is a variant of psoriasis."
+},
+{
+  "id": 114,
+  "subject": "Dermatology",
+  "question": "A patient presents with painful erythematous plaques that rapidly progress to bullae after drug exposure. Which one of the following is the most severe form of this reaction?",
+  "options": {
+    "A": "Erythema multiforme",
+    "B": "Stevens–Johnson syndrome",
+    "C": "Toxic epidermal necrolysis",
+    "D": "Fixed drug eruption",
+    "E": "Urticaria"
+  },
+  "correct_answer": "C",
+  "explanation": "Toxic epidermal necrolysis is the most severe form of drug-induced blistering reactions."
+},
+{
+  "id": 115,
+  "subject": "Dermatology",
+  "question": "A patient presents with erythematous plaques on the extensor surfaces and nail pitting. Which one of the following comorbid conditions is most commonly associated?",
+  "options": {
+    "A": "Osteoarthritis",
+    "B": "Rheumatoid arthritis",
+    "C": "Psoriatic arthritis",
+    "D": "Systemic lupus erythematosus",
+    "E": "Gout"
+  },
+  "correct_answer": "C",
+  "explanation": "Psoriasis is commonly associated with psoriatic arthritis."
+},
+]
