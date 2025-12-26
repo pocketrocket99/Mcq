@@ -3,12 +3,26 @@ let currentIndex = 0;
 let answered = false;
 let score = 0;
 
-fetch("Dermatology.json")
-  .then(response => response.json())
-  .then(data => {
-    questions = data;
-    loadQuestion();
-  });
+const subjectFiles = {
+  general: "questions_v1.json",
+  dermatology: "Dermatology.json"
+};
+
+function loadSubject(subject) {
+  fetch(subjectFiles[subject])
+    .then(response => response.json())
+    .then(data => {
+      questions = data;
+      currentIndex = 0;
+      score = 0;
+      answered = false;
+
+      const scoreDiv = document.getElementById("score");
+      if (scoreDiv) scoreDiv.innerText = "Score: 0";
+
+      loadQuestion();
+    });
+}
 
 function loadQuestion() {
   answered = false;
@@ -84,3 +98,8 @@ function nextQuestion() {
   }
   loadQuestion();
 }
+document.getElementById("subjectSelect").addEventListener("change", function () {
+  loadSubject(this.value);
+});
+
+loadSubject("general");
